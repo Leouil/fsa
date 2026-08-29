@@ -54,28 +54,28 @@ You cannot measure what you do not trust to begin with. Module 1 installs the **
 
 <svg viewBox="0 0 1000 168" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Module 1 learning flow" style="max-width:100%;height:auto">
   <defs>
-    <marker id="a1" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#7a8699"/></marker>
+    <marker id="a1" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#8099bd"/></marker>
   </defs>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
-    <rect x="20" y="40" width="200" height="86" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
-    <text x="120" y="66" text-anchor="middle" font-size="13" font-weight="700" fill="#233">M1-Obj-1-1</text>
-    <text x="120" y="86" text-anchor="middle" font-size="12" fill="#44515f">Adversarial Nature</text>
-    <text x="120" y="103" text-anchor="middle" font-size="12" fill="#44515f">Why statements mislead</text>
-    <rect x="280" y="40" width="200" height="86" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
-    <text x="380" y="66" text-anchor="middle" font-size="13" font-weight="700" fill="#233">M1-Obj-1-2</text>
-    <text x="380" y="86" text-anchor="middle" font-size="12" fill="#44515f">Skeptical Mindset</text>
-    <text x="380" y="103" text-anchor="middle" font-size="12" fill="#44515f">Gimmicks &amp; red flags</text>
-    <rect x="540" y="40" width="200" height="86" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
-    <text x="640" y="66" text-anchor="middle" font-size="13" font-weight="700" fill="#233">M1-Obj-1-3</text>
-    <text x="640" y="86" text-anchor="middle" font-size="12" fill="#44515f">Disclosure Navigation</text>
-    <text x="640" y="103" text-anchor="middle" font-size="12" fill="#44515f">10-K &amp; the four statements</text>
-    <rect x="800" y="40" width="200" height="86" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
-    <text x="900" y="66" text-anchor="middle" font-size="13" font-weight="700" fill="#233">Module 2</text>
-    <text x="900" y="86" text-anchor="middle" font-size="12" fill="#44515f">Navigating the</text>
-    <text x="900" y="103" text-anchor="middle" font-size="12" fill="#44515f">Core Statements</text>
-    <line x1="222" y1="83" x2="278" y2="83" stroke="#7a8699" stroke-width="2" marker-end="url(#a1)"/>
-    <line x1="482" y1="83" x2="538" y2="83" stroke="#7a8699" stroke-width="2" marker-end="url(#a1)"/>
-    <line x1="742" y1="83" x2="798" y2="83" stroke="#7a8699" stroke-width="2" marker-end="url(#a1)"/>
+    <rect x="20" y="40" width="200" height="86" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
+    <text x="120" y="66" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">M1-Obj-1-1</text>
+    <text x="120" y="86" text-anchor="middle" font-size="12" fill="#d0dbe8">Adversarial Nature</text>
+    <text x="120" y="103" text-anchor="middle" font-size="12" fill="#d0dbe8">Why statements mislead</text>
+    <rect x="280" y="40" width="200" height="86" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
+    <text x="380" y="66" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">M1-Obj-1-2</text>
+    <text x="380" y="86" text-anchor="middle" font-size="12" fill="#d0dbe8">Skeptical Mindset</text>
+    <text x="380" y="103" text-anchor="middle" font-size="12" fill="#d0dbe8">Gimmicks &amp; red flags</text>
+    <rect x="540" y="40" width="200" height="86" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
+    <text x="640" y="66" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">M1-Obj-1-3</text>
+    <text x="640" y="86" text-anchor="middle" font-size="12" fill="#d0dbe8">Disclosure Navigation</text>
+    <text x="640" y="103" text-anchor="middle" font-size="12" fill="#d0dbe8">10-K &amp; the four statements</text>
+    <rect x="800" y="40" width="200" height="86" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
+    <text x="900" y="66" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Module 2</text>
+    <text x="900" y="86" text-anchor="middle" font-size="12" fill="#d0dbe8">Navigating the</text>
+    <text x="900" y="103" text-anchor="middle" font-size="12" fill="#d0dbe8">Core Statements</text>
+    <line x1="222" y1="83" x2="278" y2="83" stroke="#8099bd" stroke-width="2" marker-end="url(#a1)"/>
+    <line x1="482" y1="83" x2="538" y2="83" stroke="#8099bd" stroke-width="2" marker-end="url(#a1)"/>
+    <line x1="742" y1="83" x2="798" y2="83" stroke="#8099bd" stroke-width="2" marker-end="url(#a1)"/>
   </g>
 </svg>
 

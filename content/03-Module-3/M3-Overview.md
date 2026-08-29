@@ -54,29 +54,29 @@ Raw dollars punish small companies and flatter large ones. Common-sizing strips 
 
 <svg viewBox="0 0 460 356" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Module 3 learning flow" style="max-width:100%;height:auto">
   <defs>
-    <marker id="a3" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#7a8699"/></marker>
+    <marker id="a3" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#8099bd"/></marker>
   </defs>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
-    <rect x="30" y="20" width="190" height="80" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
-    <text x="125" y="46" text-anchor="middle" font-size="13" font-weight="700" fill="#233">M3-Obj-3-1</text>
-    <text x="125" y="66" text-anchor="middle" font-size="12" fill="#44515f">Vertical Analysis</text>
-    <text x="125" y="83" text-anchor="middle" font-size="12" fill="#44515f">Structure %</text>
-    <rect x="30" y="130" width="190" height="80" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
-    <text x="125" y="156" text-anchor="middle" font-size="13" font-weight="700" fill="#233">M3-Obj-3-2</text>
-    <text x="125" y="176" text-anchor="middle" font-size="12" fill="#44515f">Horizontal Analysis</text>
-    <text x="125" y="193" text-anchor="middle" font-size="12" fill="#44515f">Trends &amp; Velocity</text>
-    <rect x="30" y="240" width="190" height="80" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
-    <text x="125" y="266" text-anchor="middle" font-size="13" font-weight="700" fill="#233">M3-Obj-3-3</text>
-    <text x="125" y="286" text-anchor="middle" font-size="12" fill="#44515f">Du Pont Synthesis</text>
-    <text x="125" y="303" text-anchor="middle" font-size="12" fill="#44515f">ROE Deconstruction</text>
-    <rect x="260" y="240" width="190" height="80" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
-    <text x="355" y="266" text-anchor="middle" font-size="13" font-weight="700" fill="#233">Module 4</text>
-    <text x="355" y="286" text-anchor="middle" font-size="12" fill="#44515f">Strategic &amp;</text>
-    <text x="355" y="303" text-anchor="middle" font-size="12" fill="#44515f">Industry Context</text>
-    <line x1="125" y1="102" x2="125" y2="128" stroke="#7a8699" stroke-width="2" marker-end="url(#a3)"/>
-    <line x1="125" y1="212" x2="125" y2="238" stroke="#7a8699" stroke-width="2" marker-end="url(#a3)"/>
-    <path d="M 222 60 L 250 60 L 250 280 L 222 280" fill="none" stroke="#7a8699" stroke-width="2" marker-end="url(#a3)"/>
-    <line x1="252" y1="280" x2="258" y2="280" stroke="#7a8699" stroke-width="2"/>
+    <rect x="30" y="20" width="190" height="80" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
+    <text x="125" y="46" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">M3-Obj-3-1</text>
+    <text x="125" y="66" text-anchor="middle" font-size="12" fill="#d0dbe8">Vertical Analysis</text>
+    <text x="125" y="83" text-anchor="middle" font-size="12" fill="#d0dbe8">Structure %</text>
+    <rect x="30" y="130" width="190" height="80" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
+    <text x="125" y="156" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">M3-Obj-3-2</text>
+    <text x="125" y="176" text-anchor="middle" font-size="12" fill="#d0dbe8">Horizontal Analysis</text>
+    <text x="125" y="193" text-anchor="middle" font-size="12" fill="#d0dbe8">Trends &amp; Velocity</text>
+    <rect x="30" y="240" width="190" height="80" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
+    <text x="125" y="266" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">M3-Obj-3-3</text>
+    <text x="125" y="286" text-anchor="middle" font-size="12" fill="#d0dbe8">Du Pont Synthesis</text>
+    <text x="125" y="303" text-anchor="middle" font-size="12" fill="#d0dbe8">ROE Deconstruction</text>
+    <rect x="260" y="240" width="190" height="80" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
+    <text x="355" y="266" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Module 4</text>
+    <text x="355" y="286" text-anchor="middle" font-size="12" fill="#d0dbe8">Strategic &amp;</text>
+    <text x="355" y="303" text-anchor="middle" font-size="12" fill="#d0dbe8">Industry Context</text>
+    <line x1="125" y1="102" x2="125" y2="128" stroke="#8099bd" stroke-width="2" marker-end="url(#a3)"/>
+    <line x1="125" y1="212" x2="125" y2="238" stroke="#8099bd" stroke-width="2" marker-end="url(#a3)"/>
+    <path d="M 222 60 L 250 60 L 250 280 L 222 280" fill="none" stroke="#8099bd" stroke-width="2" marker-end="url(#a3)"/>
+    <line x1="252" y1="280" x2="258" y2="280" stroke="#8099bd" stroke-width="2"/>
   </g>
 </svg>
 
