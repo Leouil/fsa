@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: ""
   locale: en-US
-  baseUrl: fsa-course.github.io/quartz
+  baseUrl: leouil.github.io/fsa
   ignorePatterns:
     - private
     - templates
