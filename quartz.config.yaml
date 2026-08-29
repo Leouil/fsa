@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Financial Statement Analysis
+  pageTitleSuffix: " · FSA Course"
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: ""
   locale: en-US
   baseUrl: fsa-course.github.io/quartz
   ignorePatterns:
