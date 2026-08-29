@@ -49,23 +49,23 @@ aliases:
   </defs>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
     <rect x="20" y="40" width="200" height="94" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
-    <text x="120" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Module 3</text>
-    <text x="120" y="92" text-anchor="middle" font-size="12" fill="#d0dbe8">Measure</text>
-    <text x="120" y="109" text-anchor="middle" font-size="12" fill="#d0dbe8">(Tesla alone)</text>
+    <text x="120" y="72" text-anchor="middle" font-size="13" font-weight="700" style="fill:#ffffff">Module 3</text>
+    <text x="120" y="92" text-anchor="middle" font-size="12" style="fill:#d0dbe8">Measure</text>
+    <text x="120" y="109" text-anchor="middle" font-size="12" style="fill:#d0dbe8">(Tesla alone)</text>
     <rect x="290" y="40" width="200" height="94" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
-    <text x="390" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">LO 4.1</text>
-    <text x="390" y="88" text-anchor="middle" font-size="12" fill="#d0dbe8">Industry Structure</text>
-    <text x="390" y="105" text-anchor="middle" font-size="12" fill="#d0dbe8">&amp; Strategy</text>
-    <text x="390" y="122" text-anchor="middle" font-size="12" font-style="italic" fill="#d0dbe8">Tesla × BYD</text>
+    <text x="390" y="68" text-anchor="middle" font-size="13" font-weight="700" style="fill:#ffffff">LO 4.1</text>
+    <text x="390" y="88" text-anchor="middle" font-size="12" style="fill:#d0dbe8">Industry Structure</text>
+    <text x="390" y="105" text-anchor="middle" font-size="12" style="fill:#d0dbe8">&amp; Strategy</text>
+    <text x="390" y="122" text-anchor="middle" font-size="12" font-style="italic" style="fill:#d0dbe8">Tesla × BYD</text>
     <rect x="560" y="40" width="200" height="94" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
-    <text x="660" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">LO 4.2</text>
-    <text x="660" y="88" text-anchor="middle" font-size="12" fill="#d0dbe8">Peer Comparison</text>
-    <text x="660" y="105" text-anchor="middle" font-size="12" fill="#d0dbe8">and Benchmarking</text>
-    <text x="660" y="122" text-anchor="middle" font-size="12" font-style="italic" fill="#d0dbe8">Tesla ↔ BYD</text>
+    <text x="660" y="68" text-anchor="middle" font-size="13" font-weight="700" style="fill:#ffffff">LO 4.2</text>
+    <text x="660" y="88" text-anchor="middle" font-size="12" style="fill:#d0dbe8">Peer Comparison</text>
+    <text x="660" y="105" text-anchor="middle" font-size="12" style="fill:#d0dbe8">and Benchmarking</text>
+    <text x="660" y="122" text-anchor="middle" font-size="12" font-style="italic" style="fill:#d0dbe8">Tesla ↔ BYD</text>
     <rect x="830" y="40" width="200" height="94" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
-    <text x="930" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Module 5</text>
-    <text x="930" y="92" text-anchor="middle" font-size="12" fill="#d0dbe8">The Statements</text>
-    <text x="930" y="109" text-anchor="middle" font-size="12" fill="#d0dbe8">as Intelligence</text>
+    <text x="930" y="72" text-anchor="middle" font-size="13" font-weight="700" style="fill:#ffffff">Module 5</text>
+    <text x="930" y="92" text-anchor="middle" font-size="12" style="fill:#d0dbe8">The Statements</text>
+    <text x="930" y="109" text-anchor="middle" font-size="12" style="fill:#d0dbe8">as Intelligence</text>
     <line x1="222" y1="87" x2="288" y2="87" stroke="#8099bd" stroke-width="2" marker-end="url(#a4)"/>
     <line x1="492" y1="87" x2="558" y2="87" stroke="#8099bd" stroke-width="2" marker-end="url(#a4)"/>
     <line x1="762" y1="87" x2="828" y2="87" stroke="#8099bd" stroke-width="2" marker-end="url(#a4)"/>

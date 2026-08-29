@@ -71,20 +71,20 @@ aliases:
   </defs>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
     <rect x="20" y="30" width="190" height="74" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
-    <text x="115" y="54" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">M2-Obj-2-1</text>
-    <text x="115" y="74" text-anchor="middle" font-size="12" fill="#d0dbe8">Balance Sheet</text>
+    <text x="115" y="54" text-anchor="middle" font-size="13" font-weight="700" style="fill:#ffffff">M2-Obj-2-1</text>
+    <text x="115" y="74" text-anchor="middle" font-size="12" style="fill:#d0dbe8">Balance Sheet</text>
     <rect x="250" y="30" width="190" height="74" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
-    <text x="345" y="54" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">M2-Obj-2-2</text>
-    <text x="345" y="74" text-anchor="middle" font-size="12" fill="#d0dbe8">Income Statement</text>
+    <text x="345" y="54" text-anchor="middle" font-size="13" font-weight="700" style="fill:#ffffff">M2-Obj-2-2</text>
+    <text x="345" y="74" text-anchor="middle" font-size="12" style="fill:#d0dbe8">Income Statement</text>
     <rect x="480" y="30" width="190" height="74" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
-    <text x="575" y="54" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">M2-Obj-2-3</text>
-    <text x="575" y="74" text-anchor="middle" font-size="12" fill="#d0dbe8">Cash Flow Statement</text>
+    <text x="575" y="54" text-anchor="middle" font-size="13" font-weight="700" style="fill:#ffffff">M2-Obj-2-3</text>
+    <text x="575" y="74" text-anchor="middle" font-size="12" style="fill:#d0dbe8">Cash Flow Statement</text>
     <rect x="250" y="150" width="190" height="74" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
-    <text x="345" y="174" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Articulation</text>
-    <text x="345" y="194" text-anchor="middle" font-size="12" fill="#d0dbe8">NI → RE → Equity</text>
+    <text x="345" y="174" text-anchor="middle" font-size="13" font-weight="700" style="fill:#ffffff">Articulation</text>
+    <text x="345" y="194" text-anchor="middle" font-size="12" style="fill:#d0dbe8">NI → RE → Equity</text>
     <rect x="560" y="150" width="190" height="74" rx="9" fill="#1f3a5f" stroke="#3a5a85" stroke-width="1.5"/>
-    <text x="655" y="174" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">Module 3</text>
-    <text x="655" y="194" text-anchor="middle" font-size="12" fill="#d0dbe8">Analytical Techniques</text>
+    <text x="655" y="174" text-anchor="middle" font-size="13" font-weight="700" style="fill:#ffffff">Module 3</text>
+    <text x="655" y="194" text-anchor="middle" font-size="12" style="fill:#d0dbe8">Analytical Techniques</text>
     <line x1="212" y1="67" x2="248" y2="67" stroke="#8099bd" stroke-width="2" marker-end="url(#a2)"/>
     <line x1="442" y1="67" x2="478" y2="67" stroke="#8099bd" stroke-width="2" marker-end="url(#a2)"/>
     <line x1="115" y1="106" x2="330" y2="148" stroke="#8099bd" stroke-width="2" marker-end="url(#a2)"/>
