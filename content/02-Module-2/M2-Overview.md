@@ -65,15 +65,34 @@ aliases:
 
 ## Module 2 Learning Flow
 
-```mermaid
-graph LR
-    A[M2-Obj-2-1<br/>Balance Sheet] --> B[M2-Obj-2-2<br/>Income Statement]
-    B --> C[M2-Obj-2-3<br/>Cash Flow Statement]
-    A --> D[Articulation:<br/>NI → RE → Equity]
-    B --> D
-    C --> D
-    D --> E[Module 3:<br/>Analytical Techniques]
-```
+<svg viewBox="0 0 770 246" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Module 2 learning flow" style="max-width:100%;height:auto">
+  <defs>
+    <marker id="a2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#7a8699"/></marker>
+  </defs>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="20" y="30" width="190" height="74" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
+    <text x="115" y="54" text-anchor="middle" font-size="13" font-weight="700" fill="#233">M2-Obj-2-1</text>
+    <text x="115" y="74" text-anchor="middle" font-size="12" fill="#44515f">Balance Sheet</text>
+    <rect x="250" y="30" width="190" height="74" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
+    <text x="345" y="54" text-anchor="middle" font-size="13" font-weight="700" fill="#233">M2-Obj-2-2</text>
+    <text x="345" y="74" text-anchor="middle" font-size="12" fill="#44515f">Income Statement</text>
+    <rect x="480" y="30" width="190" height="74" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
+    <text x="575" y="54" text-anchor="middle" font-size="13" font-weight="700" fill="#233">M2-Obj-2-3</text>
+    <text x="575" y="74" text-anchor="middle" font-size="12" fill="#44515f">Cash Flow Statement</text>
+    <rect x="250" y="150" width="190" height="74" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
+    <text x="345" y="174" text-anchor="middle" font-size="13" font-weight="700" fill="#233">Articulation</text>
+    <text x="345" y="194" text-anchor="middle" font-size="12" fill="#44515f">NI → RE → Equity</text>
+    <rect x="560" y="150" width="190" height="74" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
+    <text x="655" y="174" text-anchor="middle" font-size="13" font-weight="700" fill="#233">Module 3</text>
+    <text x="655" y="194" text-anchor="middle" font-size="12" fill="#44515f">Analytical Techniques</text>
+    <line x1="212" y1="67" x2="248" y2="67" stroke="#7a8699" stroke-width="2" marker-end="url(#a2)"/>
+    <line x1="442" y1="67" x2="478" y2="67" stroke="#7a8699" stroke-width="2" marker-end="url(#a2)"/>
+    <line x1="115" y1="106" x2="330" y2="148" stroke="#7a8699" stroke-width="2" marker-end="url(#a2)"/>
+    <line x1="345" y1="106" x2="345" y2="148" stroke="#7a8699" stroke-width="2" marker-end="url(#a2)"/>
+    <line x1="575" y1="106" x2="360" y2="148" stroke="#7a8699" stroke-width="2" marker-end="url(#a2)"/>
+    <line x1="442" y1="187" x2="558" y2="187" stroke="#7a8699" stroke-width="2" marker-end="url(#a2)"/>
+  </g>
+</svg>
 
 1. **Start with the Balance Sheet (2.1)** — Understand the *stock* of assets, liabilities, and equity at a point in time. Learn where accounting values diverge from economic reality.
 2. **Move to the Income Statement (2.2)** — See how the *flows* of revenue and expense change equity. Learn where accrual estimates create manipulation risk.

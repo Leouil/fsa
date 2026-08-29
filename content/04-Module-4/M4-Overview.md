@@ -1,5 +1,5 @@
 ---
-title: Module 4 - Strategic and Industry Context
+title: M4-Overview - Module 4 Overview
 created: 2026-08-26
 date: 2026-08-26
 tags:
@@ -43,12 +43,34 @@ aliases:
 | 7 | Narrow slotting & broad benchmarking | Is this number good — versus the rival, versus the industry? | [[M4-Obj-4-2]] §III–IV |
 | 8 | Assertion testing | Do management claims survive contact with the statements? | [[M4-Obj-4-2]] §V |
 
-```mermaid
-flowchart LR
-    M3["Module 3<br/>Measure<br/>(Tesla alone)"] --> M4A["LO 4.1<br/>Industry Structure<br/>& Strategy<br/><i>Tesla × BYD</i>"]
-    M4A --> M4B["LO 4.2<br/>Peer Comparison<br/>and Benchmarking<br/><i>Tesla ↔ BYD</i>"]
-    M4B --> M5["Module 5<br/>The Statements<br/>as Intelligence"]
-```
+<svg viewBox="0 0 1030 176" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Module 4 learning flow" style="max-width:100%;height:auto">
+  <defs>
+    <marker id="a4" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#7a8699"/></marker>
+  </defs>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="20" y="40" width="200" height="94" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
+    <text x="120" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#233">Module 3</text>
+    <text x="120" y="92" text-anchor="middle" font-size="12" fill="#44515f">Measure</text>
+    <text x="120" y="109" text-anchor="middle" font-size="12" fill="#44515f">(Tesla alone)</text>
+    <rect x="290" y="40" width="200" height="94" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
+    <text x="390" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#233">LO 4.1</text>
+    <text x="390" y="88" text-anchor="middle" font-size="12" fill="#44515f">Industry Structure</text>
+    <text x="390" y="105" text-anchor="middle" font-size="12" fill="#44515f">&amp; Strategy</text>
+    <text x="390" y="122" text-anchor="middle" font-size="12" font-style="italic" fill="#44515f">Tesla × BYD</text>
+    <rect x="560" y="40" width="200" height="94" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
+    <text x="660" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#233">LO 4.2</text>
+    <text x="660" y="88" text-anchor="middle" font-size="12" fill="#44515f">Peer Comparison</text>
+    <text x="660" y="105" text-anchor="middle" font-size="12" fill="#44515f">and Benchmarking</text>
+    <text x="660" y="122" text-anchor="middle" font-size="12" font-style="italic" fill="#44515f">Tesla ↔ BYD</text>
+    <rect x="830" y="40" width="200" height="94" rx="9" fill="#eef1f6" stroke="#b9c2cf" stroke-width="1.5"/>
+    <text x="930" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#233">Module 5</text>
+    <text x="930" y="92" text-anchor="middle" font-size="12" fill="#44515f">The Statements</text>
+    <text x="930" y="109" text-anchor="middle" font-size="12" fill="#44515f">as Intelligence</text>
+    <line x1="222" y1="87" x2="288" y2="87" stroke="#7a8699" stroke-width="2" marker-end="url(#a4)"/>
+    <line x1="492" y1="87" x2="558" y2="87" stroke="#7a8699" stroke-width="2" marker-end="url(#a4)"/>
+    <line x1="762" y1="87" x2="828" y2="87" stroke="#7a8699" stroke-width="2" marker-end="url(#a4)"/>
+  </g>
+</svg>
 
 > [!tip] From Diagnosis to Etiology to Judgment
 > Module 3 diagnosed: margins compressed, velocity slowed, leverage flat. Module 4 explained: price war, policy shock, fixed-cost pain — then judged: against BYD and industry norms, which results reflect strategy and which reflect excuse? That judgment layer is what separates analysts from calculators.
