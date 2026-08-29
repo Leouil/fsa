@@ -77,7 +77,14 @@ You cannot measure what you do not trust to begin with. Module 1 installs the **
     <line x1="482" y1="83" x2="538" y2="83" stroke="#8099bd" stroke-width="2" marker-end="url(#a1)"/>
     <line x1="742" y1="83" x2="798" y2="83" stroke="#8099bd" stroke-width="2" marker-end="url(#a1)"/>
   </g>
-</svg>
+</svg<div style="position: fixed; top: 1rem; right: 1rem; z-index: 1000;">
+  <button class="pane-arrow right-arrow" data-type="right" style="cursor: pointer; width: 2rem; height: 2rem; text-align: center; line-height: 2rem; font-size: 1.5rem; user-select: none;">→</button>
+</div>
+<div style="position: fixed; top: 1rem; left: 1rem; z-index: 1000;">
+  <button class="pane-arrow left-arrow" data-type="left" style="cursor: pointer; width: 2rem; height: 2rem; text-align: center; line-height: 2rem; font-size: 1.5rem; user-select: none;">←</button>
+</div>
+
+<script>document.addEventListener("DOMContentLoaded",()=>{const a=document.querySelectorAll(".pane-arrow");a.forEach(a=>{a.addEventListener("click",()=>{const t=a.dataset.type;const s=t=="left"?document.querySelector(".left.sidebar"):document.querySelector(".right.sidebar");s.classList.toggle("sidebar-hidden")})})})</script>>
 
 1. **Start with adversarial reality (1.1)** — understand *why* statements are motivated and therefore partial.
 2. **Arm yourself with skepticism (1.2)** — learn the common gimmicks and the red flags that reveal them.

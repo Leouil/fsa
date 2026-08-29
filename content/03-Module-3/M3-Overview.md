@@ -78,7 +78,14 @@ Raw dollars punish small companies and flatter large ones. Common-sizing strips 
     <path d="M 222 60 L 250 60 L 250 280 L 222 280" fill="none" stroke="#8099bd" stroke-width="2" marker-end="url(#a3)"/>
     <line x1="252" y1="280" x2="258" y2="280" stroke="#8099bd" stroke-width="2"/>
   </g>
-</svg>
+</svg<div style="position: fixed; top: 1rem; right: 1rem; z-index: 1000;">
+  <button class="pane-arrow right-arrow" data-type="right" style="cursor: pointer; width: 2rem; height: 2rem; text-align: center; line-height: 2rem; font-size: 1.5rem; user-select: none;">→</button>
+</div>
+<div style="position: fixed; top: 1rem; left: 1rem; z-index: 1000;">
+  <button class="pane-arrow left-arrow" data-type="left" style="cursor: pointer; width: 2rem; height: 2rem; text-align: center; line-height: 2rem; font-size: 1.5rem; user-select: none;">←</button>
+</div>
+
+<script>document.addEventListener("DOMContentLoaded",()=>{const a=document.querySelectorAll(".pane-arrow");a.forEach(a=>{a.addEventListener("click",()=>{const t=a.dataset.type;const s=t=="left"?document.querySelector(".left.sidebar"):document.querySelector(".right.sidebar");s.classList.toggle("sidebar-hidden")})})})</script>>
 
 1. **Start with Vertical Analysis (3.1)** — Learn to normalize statements against a common base and read a company's internal structure like an X-ray.
 2. **Add the time dimension (3.2)** — Track dollar changes, index numbers, and velocity ratios across periods to catch gradual drift early.

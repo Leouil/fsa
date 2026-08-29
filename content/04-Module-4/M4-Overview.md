@@ -70,7 +70,14 @@ aliases:
     <line x1="492" y1="87" x2="558" y2="87" stroke="#8099bd" stroke-width="2" marker-end="url(#a4)"/>
     <line x1="762" y1="87" x2="828" y2="87" stroke="#8099bd" stroke-width="2" marker-end="url(#a4)"/>
   </g>
-</svg>
+</svg<div style="position: fixed; top: 1rem; right: 1rem; z-index: 1000;">
+  <button class="pane-arrow right-arrow" data-type="right" style="cursor: pointer; width: 2rem; height: 2rem; text-align: center; line-height: 2rem; font-size: 1.5rem; user-select: none;">→</button>
+</div>
+<div style="position: fixed; top: 1rem; left: 1rem; z-index: 1000;">
+  <button class="pane-arrow left-arrow" data-type="left" style="cursor: pointer; width: 2rem; height: 2rem; text-align: center; line-height: 2rem; font-size: 1.5rem; user-select: none;">←</button>
+</div>
+
+<script>document.addEventListener("DOMContentLoaded",()=>{const a=document.querySelectorAll(".pane-arrow");a.forEach(a=>{a.addEventListener("click",()=>{const t=a.dataset.type;const s=t=="left"?document.querySelector(".left.sidebar"):document.querySelector(".right.sidebar");s.classList.toggle("sidebar-hidden")})})})</script>>
 
 > [!tip] From Diagnosis to Etiology to Judgment
 > Module 3 diagnosed: margins compressed, velocity slowed, leverage flat. Module 4 explained: price war, policy shock, fixed-cost pain — then judged: against BYD and industry norms, which results reflect strategy and which reflect excuse? That judgment layer is what separates analysts from calculators.

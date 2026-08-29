@@ -92,7 +92,14 @@ aliases:
     <line x1="575" y1="106" x2="360" y2="148" stroke="#8099bd" stroke-width="2" marker-end="url(#a2)"/>
     <line x1="442" y1="187" x2="558" y2="187" stroke="#8099bd" stroke-width="2" marker-end="url(#a2)"/>
   </g>
-</svg>
+</svg<div style="position: fixed; top: 1rem; right: 1rem; z-index: 1000;">
+  <button class="pane-arrow right-arrow" data-type="right" style="cursor: pointer; width: 2rem; height: 2rem; text-align: center; line-height: 2rem; font-size: 1.5rem; user-select: none;">→</button>
+</div>
+<div style="position: fixed; top: 1rem; left: 1rem; z-index: 1000;">
+  <button class="pane-arrow left-arrow" data-type="left" style="cursor: pointer; width: 2rem; height: 2rem; text-align: center; line-height: 2rem; font-size: 1.5rem; user-select: none;">←</button>
+</div>
+
+<script>document.addEventListener("DOMContentLoaded",()=>{const a=document.querySelectorAll(".pane-arrow");a.forEach(a=>{a.addEventListener("click",()=>{const t=a.dataset.type;const s=t=="left"?document.querySelector(".left.sidebar"):document.querySelector(".right.sidebar");s.classList.toggle("sidebar-hidden")})})})</script>>
 
 1. **Start with the Balance Sheet (2.1)** — Understand the *stock* of assets, liabilities, and equity at a point in time. Learn where accounting values diverge from economic reality.
 2. **Move to the Income Statement (2.2)** — See how the *flows* of revenue and expense change equity. Learn where accrual estimates create manipulation risk.
