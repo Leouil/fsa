@@ -1,0 +1,75 @@
+---
+title: Module 4 - Strategic and Industry Context
+created: 2026-08-26
+date: 2026-08-26
+tags:
+  - FSA
+  - M4
+  - Overview
+aliases:
+  - strategic-and-industry-context
+---
+
+# Module 4: Strategic and Industry Context
+
+> [!abstract] Module Purpose
+> Module 3 taught you to *measure* performance — common-size, horizontal, and Du Pont analysis produced precise diagnoses of Tesla's trajectory. This module answers the questions those techniques cannot: **why** did performance unfold as it did, and is it any good compared to the alternative? Two analytical layers supply the answers: **industry structure and corporate strategy** (LO 4.1) explain causation; **peer comparison and benchmarking** (LO 4.2) establish standards.
+>
+> The running example expands from one company to two: **Tesla vs. BYD** — same industry, same product physics, opposite strategic machines. Their collision course through 2023–2025 makes every concept in this module observable in real financial statements.
+
+## Learning Objectives
+
+| Objective | Full Title | Analytical Focus |
+|---|---|---|
+| [[M4-Obj-4-1]] | Analyze Industry Structure, Environmental Constraints, and Corporate Strategy | Value-chain mapping · Porter's Five Forces anchored to statement evidence · macro constraints (rates, policy, tariffs, commodities) · cost-leadership vs. differentiation fingerprints |
+| [[M4-Obj-4-2]] | Implement Peer Comparison and Benchmarking Analysis | Dual-criteria peer selection (line of business + size) · GAAP/IFRS & currency normalization · narrow slotting (head-to-head duel) · broad rating-group placement · management assertion testing |
+
+> [!success] Key Findings from the Tesla–BYD Comparison
+> - **Scale crossover**: BYD's revenue (¥804B ≈ $113B) overtook Tesla's ($94.8B) in 2025, delivering 4.60M vehicles (incl. 2.26M BEVs — passing Tesla as the world's largest BEV maker) against Tesla's 1.64M
+> - **Margin convergence under fire**: gross margins nearly identical (17.7% vs. 18.0%) as China's price war entered its "knockout stage"; both firms earn low-single-digit operating margins
+> - **Opposite financial machines**: BYD runs a negative cash conversion cycle (≈−28 days), 71% debt-to-assets dominated by supplier payables, and deeply negative free cash flow funding expansion; Tesla runs fast collections (+13.9-day CCC), a conservative balance sheet, and positive FCF while consolidating
+> - **Normalization reverses verdicts**: stripping Tesla's regulatory credits ($2.0B ≈ 46% of operating income) drops its core margin below BYD's subsidy-free equivalent
+
+## The Module 4 Analytical Framework
+
+| Step | Technique | Question Answered | Where Applied |
+|---|---|---|---|
+| 1 | Value-chain investigation | Where does this industry's profit physically live? | [[M4-Obj-4-1]] §II |
+| 2 | Porter's Five Forces | How structurally profitable can this industry be? | [[M4-Obj-4-1]] §II |
+| 3 | Macro constraint mapping | Which external forces set performance boundaries? | [[M4-Obj-4-1]] §II |
+| 4 | Strategy fingerprinting | Cost leadership or differentiation — and drifting which way? | [[M4-Obj-4-1]] §III |
+| 5 | Peer group construction | Who is a legitimate comparison? (line of business + size) | [[M4-Obj-4-2]] §I |
+| 6 | Normalization | Are we truly comparing apples to apples? | [[M4-Obj-4-2]] §II |
+| 7 | Narrow slotting & broad benchmarking | Is this number good — versus the rival, versus the industry? | [[M4-Obj-4-2]] §III–IV |
+| 8 | Assertion testing | Do management claims survive contact with the statements? | [[M4-Obj-4-2]] §V |
+
+```mermaid
+flowchart LR
+    M3["Module 3<br/>Measure<br/>(Tesla alone)"] --> M4A["LO 4.1<br/>Industry Structure<br/>& Strategy<br/><i>Tesla × BYD</i>"]
+    M4A --> M4B["LO 4.2<br/>Peer Comparison<br/>and Benchmarking<br/><i>Tesla ↔ BYD</i>"]
+    M4B --> M5["Module 5<br/>The Statements<br/>as Intelligence"]
+```
+
+> [!tip] From Diagnosis to Etiology to Judgment
+> Module 3 diagnosed: margins compressed, velocity slowed, leverage flat. Module 4 explained: price war, policy shock, fixed-cost pain — then judged: against BYD and industry norms, which results reflect strategy and which reflect excuse? That judgment layer is what separates analysts from calculators.
+
+---
+## Prerequisites
+
+- Tesla FY2025 Form 10-K (filed Jan 2026) — consolidated statements FY2023–25
+- Tesla FY2023 Form 10-K (filed Jan 2024) — opening balances for average-based ratios
+- BYD Company Limited FY2025 annual results (HKEX announcement, Mar 27, 2026) — no SEC filings exist; HKEX is the primary source
+- Comfort with Module 3 ratio machinery ([[M3-Overview]]) — the duel tables reuse it directly
+---
+## Book References
+
+> [!info] Sources
+> - Chapters 13–14 in *Financial Statement Analysis: A Practitioner's Guide* (3rd Ed) by Martin Fridson and Fernando Alvarez.
+> - Chapter 5 in *Understanding Financial Statements* (12th Ed) by Lyn M. Fraser and Aileen Ormiston.
+
+---
+## Related Notes
+
+- [[M3-Overview]] — the measurement toolkit this module explains
+- [[Course-Overview]] — full program map
+- Next: M5-Overview
