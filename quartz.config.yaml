@@ -8,6 +8,15 @@ configuration:
     provider: ""
   locale: en-US
   baseUrl: leouil.github.io/fsa
+  extraHead:
+    - |
+      <style>
+        .pane-arrow { position: fixed; top: 1rem; width: 2rem; height: 2rem; text-align: center; line-height: 2rem; cursor: pointer; z-index: 1000; font-size: 1.5rem; user-select: none; }
+        .left-arrow { left: 1rem; }
+        .right-arrow { right: 1rem; }
+        .sidebar-hidden { display: none; }
+      </style>
+      <script>document.addEventListener('DOMContentLoaded',()=>{const a=document.querySelectorAll('.pane-arrow');a.forEach(a=>{a.addEventListener('click',()=>{const t=a.dataset.type;const s=t=='left'?document.querySelector('.left.sidebar'):document.querySelector('.right.sidebar');s.classList.toggle('sidebar-hidden')})})}</script>
   ignorePatterns:
     - private
     - templates
