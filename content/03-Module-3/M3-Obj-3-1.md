@@ -28,16 +28,16 @@ aliases:
 
 | Line Item | Dec 31, 2025 | Dec 31, 2024 | Dec 31, 2023 |
 |-----------|-----:|-----:|-----:|
-| Cash + short-term investments | $44,059 | $36,563 | $29,094 |
-| Accounts receivable, net | $4,576 | $4,418 | $3,508 |
-| Inventory | $12,392 | $12,017 | $13,626 |
-| Property, plant & equipment, net | $40,643 | $35,836 | $29,725 |
-| All other assets | $36,136 | $33,236 | $30,665 |
-| **Total Assets** | **$137,806** | **$122,070** | **$106,618** |
-| Accounts payable | $13,371 | $12,474 | $14,431 |
-| All other liabilities | $41,570 | $35,916 | $28,578 |
-| **Total Liabilities** | **$54,941** | **$48,390** | **$43,009** |
-| **Total Equity** (incl. NCI & redeemable NCI) | **$82,865** | **$73,680** | **$63,609** |
+| Cash + short-term investments | \$44,059 | \$36,563 | \$29,094 |
+| Accounts receivable, net | \$4,576 | \$4,418 | \$3,508 |
+| Inventory | \$12,392 | \$12,017 | \$13,626 |
+| Property, plant & equipment, net | \$40,643 | \$35,836 | \$29,725 |
+| All other assets | \$36,136 | \$33,236 | \$30,665 |
+| **Total Assets** | **\$137,806** | **\$122,070** | **\$106,618** |
+| Accounts payable | \$13,371 | \$12,474 | \$14,431 |
+| All other liabilities | \$41,570 | \$35,916 | \$28,578 |
+| **Total Liabilities** | **\$54,941** | **\$48,390** | **\$43,009** |
+| **Total Equity** (incl. NCI & redeemable NCI) | **\$82,865** | **\$73,680** | **\$63,609** |
 
 *Total equity here includes both noncontrolling interests in subsidiaries and the mezzanine *redeemable* noncontrolling interests, so that Total Liabilities + Total Equity reconciles exactly to Total Assets. (See [[M2-Obj-2-1]] for the distinction between these equity components.)*
 
@@ -45,15 +45,15 @@ aliases:
 
 | Line Item | 2025 | 2024 | 2023 |
 |-----------|-----:|-----:|-----:|
-| **Total Revenues** | **$94,827** | **$97,690** | **$96,773** |
-| Cost of revenues | $77,733 | $80,240 | $79,113 |
-| **Gross Profit** | **$17,094** | **$17,450** | **$17,660** |
-| R&D | $6,411 | $4,540 | $3,969 |
-| SG&A | $5,834 | $5,150 | $4,800 |
-| Restructuring & other | $494 | $684 | — |
-| **Operating Income** | **$4,355** | **$7,076** | **$8,891** |
-| **Net Income** | **$3,855** | **$7,153** | **$14,974** |
-| Cash Flow from Operations | $14,747 | $14,923 | $13,256 |
+| **Total Revenues** | **\$94,827** | **\$97,690** | **\$96,773** |
+| Cost of revenues | \$77,733 | \$80,240 | \$79,113 |
+| **Gross Profit** | **\$17,094** | **\$17,450** | **\$17,660** |
+| R&D | \$6,411 | \$4,540 | \$3,969 |
+| SG&A | \$5,834 | \$5,150 | \$4,800 |
+| Restructuring & other | \$494 | \$684 | — |
+| **Operating Income** | **\$4,355** | **\$7,076** | **\$8,891** |
+| **Net Income** | **\$3,855** | **\$7,153** | **\$14,974** |
+| Cash Flow from Operations | \$14,747 | \$14,923 | \$13,256 |
 
 ---
 
@@ -80,7 +80,7 @@ Every item on the statement is divided by a single **common base**, which always
 > [!info] What Is "Net Sales"?
 > **Net sales** — the income-statement base used for vertical analysis — is the company's **total revenue** after returns, allowances, and discounts: the actual proceeds recognized from selling goods and services, before any expenses are deducted. On a multiple-step income statement, **net sales** is the **top line** — it *is* **total revenue**. (The label the company uses may be "Net sales," "Revenues," or "Total revenues"; in every case it is the income statement's total revenue figure.)
 >
-> For Tesla, net sales = total revenue = **$94,827M (2025)**, shown as the "Total Revenues" line of the condensed income statement above. Because vertical analysis expresses every expense as a percentage of this figure, net sales is always set to **100%** on a common-size income statement.
+> For Tesla, net sales = total revenue = **\$94,827M (2025)**, shown as the "Total Revenues" line of the condensed income statement above. Because vertical analysis expresses every expense as a percentage of this figure, net sales is always set to **100%** on a common-size income statement.
 
 > [!tip] Why Analysts Use It
 > 1. **Internal structural analysis** — how the firm allocates its capital across asset classes, period over period

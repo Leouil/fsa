@@ -22,9 +22,9 @@ aliases:
 
 > [!info] Running Example: Tesla, Inc. (FY2025)
 > All three learning objectives use **Tesla's FY2025 Form 10-K** as the integrated running example. This lets you trace how the same economic events flow through all three statements:
-> - **Balance Sheet**: $137.8B assets, $42.8B APIC, $361M AOCI, $8.6B warranty reserve, $6.0B operating lease ROU
-> - **Income Statement**: $94.8B revenue, 18% gross margin, 4.6% operating margin, $3.1B SBC, $2.0B regulatory credits
-> - **Cash Flow**: $14.7B CFO, $8.5B CapEx, $6.2B FCF, $7.9B cumulative AP growth (2024–25), $1.9B CapEx in liabilities
+> - **Balance Sheet**: \$137.8B assets, \$42.8B APIC, \$361M AOCI, \$8.6B warranty reserve, \$6.0B operating lease ROU
+> - **Income Statement**: \$94.8B revenue, 18% gross margin, 4.6% operating margin, \$3.1B SBC, \$2.0B regulatory credits
+> - **Cash Flow**: \$14.7B CFO, \$8.5B CapEx, \$6.2B FCF, \$7.9B cumulative AP growth (2024–25), \$1.9B CapEx in liabilities
 
 ---
 
@@ -34,9 +34,9 @@ aliases:
 
 | Statement | Answers | Tesla 2025 Snapshot |
 |---|---|---|
-| **Balance Sheet** (Point in time) | What does the company *own* and *owe*? | $137.8B assets = $54.9B liabilities + $82.1B equity |
-| **Income Statement** (Period) | How much *value was created* (accrual)? | $3.9B net income, but $14.7B CFO — profits ≠ cash |
-| **Cash Flow Statement** (Period) | Where did *actual cash* come from and go? | $14.7B ops, −$15.5B invest, +$1.1B financing |
+| **Balance Sheet** (Point in time) | What does the company *own* and *owe*? | \$137.8B assets = \$54.9B liabilities + \$82.1B equity |
+| **Income Statement** (Period) | How much *value was created* (accrual)? | \$3.9B net income, but \$14.7B CFO — profits ≠ cash |
+| **Cash Flow Statement** (Period) | Where did *actual cash* come from and go? | \$14.7B ops, −\$15.5B invest, +\$1.1B financing |
 
 > [!tip] The Articulation Principle
 > The three statements are mathematically linked:

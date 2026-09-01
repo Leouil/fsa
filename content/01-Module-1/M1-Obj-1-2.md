@@ -52,7 +52,7 @@ It is often argued that misleading users is unsustainable or fraudulent. However
 1. **Earnings Smoothing**: Alternating between good and bad years to create steady growth appearance.
 
    > [!example] How It Works
-   > A company earns $100 million in a great year but reports only $80 million, "saving" $20 million for a bad year. The result: two years of $80 million, looking stable, even though actual performance was volatile.
+   > A company earns \$100 million in a great year but reports only \$80 million, "saving" \$20 million for a bad year. The result: two years of \$80 million, looking stable, even though actual performance was volatile.
 
 2. **"Taking a Big Bath"**: Recording large losses in one period to inflate future earnings.
 
@@ -91,7 +91,7 @@ Companies often mold disclosure by downplaying significant contingent liabilitie
 > A potential obligation that may or may not become a real liability depending on the outcome of a future event (e.g., a pending lawsuit). If the outcome is uncertain, companies must disclose but may downplay the potential impact.
 
 > [!danger] Real World: Manville Corporation
-> Prior to its 1982 bankruptcy, Manville Corporation's reports implied a total cost for asbestos claims of $350 million (less than half its equity); upon filing, it estimated potential damages at no less than $2 billion.
+> Prior to its 1982 bankruptcy, Manville Corporation's reports implied a total cost for asbestos claims of \$350 million (less than half its equity); upon filing, it estimated potential damages at no less than \$2 billion.
 
 ### The Detective Approach
 

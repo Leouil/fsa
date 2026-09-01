@@ -28,12 +28,12 @@ aliases:
 
 | Metric (FY2025) | Tesla (US GAAP, USD) | BYD (IFRS, CNY) |
 |---|---:|---:|
-| Revenue | $94.8B (**−2.9%**) | ¥804.0B ≈ $113B (**+3.5%**) |
+| Revenue | \$94.8B (**−2.9%**) | ¥804.0B ≈ \$113B (**+3.5%**) |
 | Vehicles delivered | 1,636,129 BEVs (**−8.6%**) | 4,602,436 NEVs (**+7.7%**)¹ |
 | Gross margin | 18.0% | 17.7% (down from 19.4%) |
 | Operating margin | 4.6% | 4.2% |
 | R&D ÷ revenue | 6.8% | ~7.9% |
-| Free cash flow | **+$6.2B** | **−¥97.7B** |
+| Free cash flow | **+\$6.2B** | **−¥97.7B** |
 
 ¹ BYD total includes ~2.26M battery-electric vehicles (overtaking Tesla as the world's largest BEV maker) plus plug-in hybrids; exports exceeded 1 million units for the first time.
 
@@ -102,7 +102,7 @@ External forces set the performance boundaries no management team controls. Map 
 | Constraint | Transmission Channel | Statement Symptom |
 |-----------|---------------------|-------------------|
 | **Interest rates** | Cost of financing a vehicle purchase; affordability ceiling | Demand volume → revenue line; leasing residuals |
-| **Government policy** | The U.S. $7,500 EV tax credit expired Sep 30, 2025 → demand pulled into Q3, collapsed after | Tesla's Q3 2025 record deliveries (497K) followed by Q4 −16%; revenue-timing distortions analysts must normalize |
+| **Government policy** | The U.S. \$7,500 EV tax credit expired Sep 30, 2025 → demand pulled into Q3, collapsed after | Tesla's Q3 2025 record deliveries (497K) followed by Q4 −16%; revenue-timing distortions analysts must normalize |
 | **Trade barriers** | U.S./E.U. tariffs on Chinese EVs segment the market into regional blocs | Geographic revenue mix; forced *localization* capex (plants inside tariff walls) |
 | **Commodity cycles** | Lithium carbonate price collapse after 2023 | COGS relief flowing into 2024–25 gross margins industry-wide |
 | **Cyclicality** | Autos are big-ticket discretionary purchases | Both firms' volumes swing with consumer confidence — unlike staples such as packaged food or beer, there is no recession-proof EV buyer |
@@ -111,7 +111,7 @@ External forces set the performance boundaries no management team controls. Map 
 
 The common wisdom is that product mix drives profitability (high-markup products subsidizing low-markup products) and that geographic separation dampens rivalry. The EV industry offers direct analogues:
 
-- **Product-mix profitability:** Tesla's energy-storage segment (46.7 GWh deployed, +113%) and services segment carry improving margins that cushion automotive weakness — recall from [[M2-Obj-2-2]] that regulatory credits ($2.0B) are nearly pure margin. BYD's mix spans ultra-budget (Seagull) to luxury (Yangwang); management explicitly blamed *mix shift* for its 2025 gross-margin compression — mix alone moves the corporate percentage.
+- **Product-mix profitability:** Tesla's energy-storage segment (46.7 GWh deployed, +113%) and services segment carry improving margins that cushion automotive weakness — recall from [[M2-Obj-2-2]] that regulatory credits (\$2.0B) are nearly pure margin. BYD's mix spans ultra-budget (Seagull) to luxury (Yangwang); management explicitly blamed *mix shift* for its 2025 gross-margin compression — mix alone moves the corporate percentage.
 - **Geographic segregation breaking down:** For years, Chinese, American, and European EV markets barely overlapped — regional players avoided head-to-head price wars by staying in their own home markets. Exports ended that: BYD shipped 1.05M vehicles abroad in 2025 (+140%). The regional peace dividend is evaporating, and tariff walls are the counter-move.
 
 ---
@@ -139,7 +139,7 @@ The common wisdom is that product mix drives profitability (high-markup products
 | Asset turnover | 0.73× | **0.96×** | BYD generates ~96 cents of revenue per asset yuan vs. Tesla's 73 — classic cost-leader compensation ([[M3-Obj-3-2]]) |
 | CapEx ÷ revenue | 9.0% | **19.5%** | BYD is mid-expansion surge (factories, ships, overseas plants); Tesla consolidated |
 | Debt-to-assets | ~40% | ~71% | BYD's figure is inflated by **¥209B of supplier payables** — its supply chain finances its working cycle; interest-bearing debt is far smaller but tripled in 2025 |
-| Free cash flow | **+$6.2B** | **−¥97.7B** | Opposite cash cycles: Tesla harvests; BYD invests through its war chest (aided by a $5.6B H-share placement in March 2025) |
+| Free cash flow | **+\$6.2B** | **−¥97.7B** | Opposite cash cycles: Tesla harvests; BYD invests through its war chest (aided by a \$5.6B H-share placement in March 2025) |
 
 > [!tip] When Archetypes Blur
 > Cost-leadership vs. product-differentiation are teaching simplifications. BYD — the cost leader — now out-spends Tesla on R&D *as a percentage of revenue*, funding 5th-generation hybrid drivetrains and megawatt flash-charging. Vertical integration gave BYD cost leadership *and* the margin surplus to differentiate. Meanwhile Tesla — the original differentiator — cut prices repeatedly to defend volume, sliding toward cost-leader behavior. **Strategy is a spectrum under motion, not a label.** Read fingerprints *together* (margin + turnover + intensity + cash flow) to detect which direction a firm is drifting — never file companies into two boxes on one ratio.

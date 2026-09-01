@@ -30,7 +30,7 @@ aliases:
 | Reporting framework | US GAAP (SEC registrant) | IFRS (HKEX listed) |
 | Currency | USD | CNY (≈7.10 per USD used below) |
 | Fiscal year-end | Dec 31 | Dec 31 |
-| FY2025 revenue | $94.8B | ¥804.0B ≈ $113B |
+| FY2025 revenue | \$94.8B | ¥804.0B ≈ \$113B |
 
 Benchmarking answers the question single-company analysis never can: *is this number good?* A 17.7% gross margin means nothing until you know what the neighbor achieves.
 
@@ -60,9 +60,9 @@ Size mismatches distort every scale-sensitive ratio (fixed-cost absorption, purc
 
 | Dimension (FY2025) | Tesla | BYD | Comparable? |
 |---|---:|---:|---|
-| Revenue | $94.8B | ≈$113B | ✅ Same order of magnitude |
+| Revenue | \$94.8B | ≈\$113B | ✅ Same order of magnitude |
 | Vehicles delivered | 1.64M BEV | 4.60M NEV (incl. 2.26M BEV) | ⚠️ ~3× volume gap |
-| Market capitalization | >$1T | ≈$140B | ❌ ~7–10× gap |
+| Market capitalization | >\$1T | ≈\$140B | ❌ ~7–10× gap |
 
 > [!warning] When Size Gaps Invalidate Comparison
 > The market-cap chasm does not poison *operating* ratios (margins, turnover, velocity) — those depend on operations, not investor sentiment. It **does** poison comparisons of financing cost, acquisition capacity, and valuation multiples. Rule of thumb: match peers on *operating* size (revenue/volume) for operational benchmarking; treat capital-market comparisons separately.
@@ -76,7 +76,7 @@ Four adjustments precede any cross-border ratio table:
 1. **Accounting framework (US GAAP vs. IFRS)** — broadly converged today, but presentation differs: line-item granularity (BYD reports combined selling/administrative expenses; Tesla splits them), development-cost capitalization options, and lease treatment nuances. Effect here: compare *ratios computed from totals* (gross margin, operating margin), not individual expense lines.
 2. **Currency** — ratios are currency-neutral: gross margin is a percentage in any currency. Only *absolute* comparisons need conversion, and then state the rate explicitly (this note uses ≈7.10 CNY/USD; the rate itself moves, so label every converted figure as context, not precision).
 3. **Fiscal calendar** — both firms close December 31. Easy win; many peer sets are not so lucky (Toyota closes March 31 — a quarter of macro drift embedded in every "same-year" comparison).
-4. **One-off items** — strip non-recurring effects before reading profitability. The flagship example: Tesla's **regulatory credit sales ($2.0B in FY2025)** carry nearly pure margin and equal **~46% of operating income** ([[M2-Obj-2-2]]). Excluding them, Tesla's core automotive operating margin is materially lower than the headline 4.6% — while BYD earns its 4.2% with no comparable subsidy line. Headlines flatter; normalized numbers compare.
+4. **One-off items** — strip non-recurring effects before reading profitability. The flagship example: Tesla's **regulatory credit sales (\$2.0B in FY2025)** carry nearly pure margin and equal **~46% of operating income** ([[M2-Obj-2-2]]). Excluding them, Tesla's core automotive operating margin is materially lower than the headline 4.6% — while BYD earns its 4.2% with no comparable subsidy line. Headlines flatter; normalized numbers compare.
 
 > [!tip] The Normalized Duel Is the Honest Duel
 > After stripping regulatory credits, the 2025 story sharpens: two price-war combatants both earning low-single-digit core operating margins — but BYD converting volume growth into profit growth trajectory, Tesla absorbing volume decline into fixed-cost pain. That conclusion was invisible before normalization.
@@ -183,7 +183,7 @@ The source framework's sharpest tool: treat management narrative as a hypothesis
 > A gross margin computed in CNY equals the same margin translated to USD — percentage relationships survive translation. Conversion matters only for absolute magnitudes (market-cap gaps, R&D dollar totals), and then the analyst must disclose the assumed rate.
 
 > [!question]- Q3: What is Tesla's regulatory-credit issue in a peer comparison, quantitatively?
-> $2.0B of near-pure-margin revenue equaling ~46% of FY2025 operating income. Unadjusted, Tesla's 4.6% operating margin appears superior to BYD's subsidy-free 4.2%; adjusted, Tesla's core margin falls well below. The one-off strip reverses the verdict — which is why normalization precedes comparison.
+> \$2.0B of near-pure-margin revenue equaling ~46% of FY2025 operating income. Unadjusted, Tesla's 4.6% operating margin appears superior to BYD's subsidy-free 4.2%; adjusted, Tesla's core margin falls well below. The one-off strip reverses the verdict — which is why normalization precedes comparison.
 
 > [!question]- Q4: Interpret BYD's negative cash conversion cycle (−28 days) alongside its negative free cash flow.
 > Negative CCC means working capital *releases* cash — suppliers finance inventory and receivables. Negative FCF shows total cash still flowing out because CapEx dwarfs that release. Together: an expansion machine using free supplier credit to help fund fixed-asset investment — brilliant while volumes grow, dangerous if they stall.

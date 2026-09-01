@@ -25,29 +25,29 @@ aliases:
 
 | Line Item | 2025 | 2024 | 2023 |
 |-----------|-----:|-----:|-----:|
-| **Total Revenues** | **$94,827** | **$97,690** | **$96,773** |
-| Automotive sales | $65,821 | $72,480 | $78,509 |
-| Automotive regulatory credits | $1,993 | $2,763 | $1,790 |
-| Automotive leasing | $1,712 | $1,827 | $2,120 |
-| Energy generation & storage | $12,771 | $10,086 | $6,035 |
-| Services & other | $12,530 | $10,534 | $8,319 |
-| **Total Cost of Revenues** | **$77,733** | **$80,240** | **$79,113** |
-| **Gross Profit** | **$17,094** | **$17,450** | **$17,660** |
+| **Total Revenues** | **\$94,827** | **\$97,690** | **\$96,773** |
+| Automotive sales | \$65,821 | \$72,480 | \$78,509 |
+| Automotive regulatory credits | \$1,993 | \$2,763 | \$1,790 |
+| Automotive leasing | \$1,712 | \$1,827 | \$2,120 |
+| Energy generation & storage | \$12,771 | \$10,086 | \$6,035 |
+| Services & other | \$12,530 | \$10,534 | \$8,319 |
+| **Total Cost of Revenues** | **\$77,733** | **\$80,240** | **\$79,113** |
+| **Gross Profit** | **\$17,094** | **\$17,450** | **\$17,660** |
 | **Gross Margin** | **18.0%** | **17.9%** | **18.2%** |
-| R&D | $6,411 | $4,540 | $3,969 |
-| SG&A | $5,834 | $5,150 | $4,800 |
-| Restructuring & other | $494 | $684 | — |
-| **Total Operating Expenses** | **$12,739** | **$10,374** | **$8,769** |
-| **Income from Operations** | **$4,355** | **$7,076** | **$8,891** |
+| R&D | \$6,411 | \$4,540 | \$3,969 |
+| SG&A | \$5,834 | \$5,150 | \$4,800 |
+| Restructuring & other | \$494 | \$684 | — |
+| **Total Operating Expenses** | **\$12,739** | **\$10,374** | **\$8,769** |
+| **Income from Operations** | **\$4,355** | **\$7,076** | **\$8,891** |
 | **Operating Margin** | **4.6%** | **7.2%** | **9.2%** |
-| Interest income | $1,680 | $1,569 | $1,066 |
-| Interest expense | ($338) | ($350) | ($156) |
-| Other (expense) income, net | ($419) | $695 | $172 |
-| **Income Before Tax** | **$5,278** | **$8,990** | **$9,973** |
-| Tax provision | $1,423 | $1,837 | ($5,001) |
-| **Net Income** | **$3,855** | **$7,153** | **$14,974** |
+| Interest income | \$1,680 | \$1,569 | \$1,066 |
+| Interest expense | (\$338) | (\$350) | (\$156) |
+| Other (expense) income, net | (\$419) | \$695 | \$172 |
+| **Income Before Tax** | **\$5,278** | **\$8,990** | **\$9,973** |
+| Tax provision | \$1,423 | \$1,837 | (\$5,001) |
+| **Net Income** | **\$3,855** | **\$7,153** | **\$14,974** |
 | **Net Margin** | **4.1%** | **7.3%** | **15.5%** |
-| Diluted EPS | $1.08 | $2.04 | $4.30 |
+| Diluted EPS | \$1.08 | \$2.04 | \$4.30 |
 
 ---
 
@@ -106,7 +106,7 @@ Tesla's revenue recognition policy illustrates the complexity of ASC 606:
 > The classifications above follow the 5-step ASC 606 model explained in the callout at the start of Section I.
 
 > [!warning] Analytical Implication
-> Regulatory credits ($1,993M in 2025) carry **100% gross margin** but are non-recurring and policy-dependent. Analysts should compute **core automotive gross margin excluding credits** to assess true manufacturing profitability. For Tesla 2025: ($65,821M auto sales − $56,267M auto COGS) / $65,821M = **14.5%** vs reported consolidated 18.0%.
+> Regulatory credits (\$1,993M in 2025) carry **100% gross margin** but are non-recurring and policy-dependent. Analysts should compute **core automotive gross margin excluding credits** to assess true manufacturing profitability. For Tesla 2025: (\$65,821M auto sales − \$56,267M auto COGS) / \$65,821M = **14.5%** vs reported consolidated 18.0%.
 
 ---
 
@@ -143,19 +143,19 @@ Tesla exemplifies a capital-intensive, high-fixed-cost business model:
 | Fixed-Cost Driver | Tesla Example |
 |---|---|
 | **Gigafactories** (TX, Berlin, Shanghai, NV) | Massive depreciation, property taxes, insurance, base staffing — incurred regardless of output |
-| **AI Infrastructure** | $20B+ capex guidance for 2026: compute clusters, data centers, Dojo supercomputer |
+| **AI Infrastructure** | \$20B+ capex guidance for 2026: compute clusters, data centers, Dojo supercomputer |
 | **Supercharger Network** | Owned stations = fixed depreciation/maintenance; growing fleet utilization spreads cost |
-| **R&D** | $6.4B in 2025 (41% YoY increase); largely fixed personnel & facilities cost |
+| **R&D** | \$6.4B in 2025 (41% YoY increase); largely fixed personnel & facilities cost |
 
 **Operating Leverage in Action (2024→2025):**
-- Revenue: **−3%** ($97,690M → $94,827M)
-- R&D: **+41%** ($4,540M → $6,411M) — includes $500M increase in stock-based compensation
-- SG&A: **+13%** ($5,150M → $5,834M)
-- Operating Income: **−38%** ($7,076M → $4,355M)
+- Revenue: **−3%** (\$97,690M → \$94,827M)
+- R&D: **+41%** (\$4,540M → \$6,411M) — includes \$500M increase in stock-based compensation
+- SG&A: **+13%** (\$5,150M → \$5,834M)
+- Operating Income: **−38%** (\$7,076M → \$4,355M)
 - Operating Margin: **7.2% → 4.6%**
 
 > [!example] The Leverage Lesson
-> When a high-fixed-cost business loses volume, the **decremental margin** (lost operating income / lost revenue) far exceeds the average operating margin. Tesla's decremental margin 2024→2025: ($7,076M − $4,355M) / ($97,690M − $94,827M) ≈ **93%** — meaning almost every lost revenue dollar flowed through to lost operating profit because fixed costs didn't shrink.
+> When a high-fixed-cost business loses volume, the **decremental margin** (lost operating income / lost revenue) far exceeds the average operating margin. Tesla's decremental margin 2024→2025: (\$7,076M − \$4,355M) / (\$97,690M − \$94,827M) ≈ **93%** — meaning almost every lost revenue dollar flowed through to lost operating profit because fixed costs didn't shrink.
 
 #### 3. Breakeven and Backing Out Costs
 
@@ -172,44 +172,44 @@ $$\text{Breakeven Volume} = \frac{\text{Total Fixed Costs}}{\text{Unit Price} - 
 #### 1. Revenue Recognition — The "Non-Core" Revenue Problem
 
 > [!warning] Red Flag: High-Margin, Non-Recurring Revenue
-> Tesla's **regulatory credits** ($1,993M in 2025, down 28% YoY) are:
+> Tesla's **regulatory credits** (\$1,993M in 2025, down 28% YoY) are:
 > - 100% gross margin (no COGS)
 > - Dependent on competitor demand for ZEV credits
 > - Subject to policy changes (IRA/OBBBA modifications in 2025)
-> - Volatile: $2,763M → $1,993M in one year
+> - Volatile: \$2,763M → \$1,993M in one year
 
-> *Example*: If you strip regulatory credits from Tesla's 2025 revenue, **core revenue = $92,834M** and **core gross margin drops to ~15.7%**. An analyst relying on reported 18.0% margin overstates core profitability.
+> *Example*: If you strip regulatory credits from Tesla's 2025 revenue, **core revenue = \$92,834M** and **core gross margin drops to ~15.7%**. An analyst relying on reported 18.0% margin overstates core profitability.
 
 #### 2. Expense Distortions — Stock-Based Compensation (SBC)
 
-Tesla's 2025 SBC expense: **$3,096M** (up 41% from $2,199M in 2024), allocated as:
+Tesla's 2025 SBC expense: **\$3,096M** (up 41% from \$2,199M in 2024), allocated as:
 
 | Function | 2025 SBC Allocation |
 |---|---|
 | Cost of Revenues | Included in automotive/energy COGS |
-| Research & Development | ~$500M increase called out in MD&A |
-| SG&A | Remainder (~$1.5B estimated) |
+| Research & Development | ~\$500M increase called out in MD&A |
+| SG&A | Remainder (~\$1.5B estimated) |
 
 > [!danger] SBC Manipulation Alerts
 > - **Non-cash but real economic cost**: Dilutes existing shareholders (3,225M basic → 3,528M diluted shares)
-> - **Accounting vs. economic cost**: The 2025 CEO Performance Award granted $162M of *recorded* expense for an award **valued at $105B–$120B** (Monte Carlo, market cap milestones). The gap between recorded and economic cost is enormous.
+> - **Accounting vs. economic cost**: The 2025 CEO Performance Award granted \$162M of *recorded* expense for an award **valued at \$105B–\$120B** (Monte Carlo, market cap milestones). The gap between recorded and economic cost is enormous.
 > - **Classification choice**: SBC embedded in COGS inflates gross margin if not stripped out; embedded in R&D/SG&A affects operating margin comparability.
 
 #### 3. Nonoperating Volatility — "Other (Expense) Income, Net"
 
 | Year | Other (Expense) Income | Primary Drivers |
 |------|------------------------|-----------------|
-| 2025 | **($419M)** | Bitcoin/digital asset fair value losses, FX losses |
-| 2024 | **$695M** | Bitcoin gains, FX gains |
-| 2023 | $172M | Mixed |
+| 2025 | **(\$419M)** | Bitcoin/digital asset fair value losses, FX losses |
+| 2024 | **\$695M** | Bitcoin gains, FX gains |
+| 2023 | \$172M | Mixed |
 
 > [!danger] Analytical Rule
 > Items in "Other (expense) income" are **nonoperating, volatile, and often fair-value driven**. They should be excluded from core earnings analysis. Tesla's digital asset accounting (ASC 350-60) forces fair-value swings through P&L — a modern twist on the classic "nonrecurring gain/loss" problem.
 
 #### 4. Restructuring — One-Time or Recurring?
 
-- **2024**: $684M (Q2: $583M employee terminations)
-- **2025**: $494M
+- **2024**: \$684M (Q2: \$583M employee terminations)
+- **2025**: \$494M
 
 > [!warning] Skeptical Analyst Question
 > Are these truly one-time? Tesla calls them "actions to reduce costs and improve efficiency." If similar charges appear year after year, they may be **recurring operating costs disguised as restructuring**. Track the pattern.
@@ -217,8 +217,8 @@ Tesla's 2025 SBC expense: **$3,096M** (up 41% from $2,199M in 2024), allocated a
 #### 5. Pro Forma / Non-GAAP Earnings
 
 Tesla's non-GAAP disclosures typically exclude SBC, restructuring, and sometimes digital asset impacts. Compare:
-- **GAAP Diluted EPS 2025**: $1.08
-- **Typical Non-GAAP adjustments**: Add back SBC (~$0.88/share), restructuring (~$0.14/share)
+- **GAAP Diluted EPS 2025**: \$1.08
+- **Typical Non-GAAP adjustments**: Add back SBC (~\$0.88/share), restructuring (~\$0.14/share)
 
 > [!tip] The Divergence Tracker
 > Always compute the gap between GAAP and non-GAAP. If non-GAAP consistently exceeds GAAP by >20% and the "adjustments" are recurring (SBC, restructuring), the non-GAAP measure is **not** a cleaner view of operations — it's a managed narrative.
@@ -231,19 +231,19 @@ Tesla's Statement of Comprehensive Income (2025):
 
 | Item | 2025 | 2024 |
 |---|---:|---:|
-| Net Income | $3,855M | $7,153M |
-| FX translation adjustment | **+$1,038M** | ($539M) |
-| Unrealized investment gains/losses | ($7M) | $12M |
-| **Total Other Comprehensive Income** | **+$1,031M** | **($527M)** |
-| **Comprehensive Income** | **$4,886M** | **$6,626M** |
+| Net Income | \$3,855M | \$7,153M |
+| FX translation adjustment | **+\$1,038M** | (\$539M) |
+| Unrealized investment gains/losses | (\$7M) | \$12M |
+| **Total Other Comprehensive Income** | **+\$1,031M** | **(\$527M)** |
+| **Comprehensive Income** | **\$4,886M** | **\$6,626M** |
 
 > [!example] The OCI Impact
-> In 2025, **OCI added $1.03B** to equity that bypassed the income statement entirely. The swing from −$527M to +$1,031M was driven almost entirely by **foreign currency translation** (Tesla's global operations: Shanghai, Berlin, etc.). An analyst looking only at net income ($3,855M) misses that total equity grew by $4,886M — a 27% difference.
+> In 2025, **OCI added \$1.03B** to equity that bypassed the income statement entirely. The swing from −\$527M to +\$1,031M was driven almost entirely by **foreign currency translation** (Tesla's global operations: Shanghai, Berlin, etc.). An analyst looking only at net income (\$3,855M) misses that total equity grew by \$4,886M — a 27% difference.
 
 The **Statement of Stockholders' Equity** links it all:
-- Net income → Retained Earnings ($35,209M → $39,003M)
-- SBC → APIC ($38,371M → $42,770M)
-- OCI → AOCI (−$670M → +$361M)
+- Net income → Retained Earnings (\$35,209M → \$39,003M)
+- SBC → APIC (\$38,371M → \$42,770M)
+- OCI → AOCI (−\$670M → +\$361M)
 - Share issuances (equity awards, warrant settlements) → Common Stock + APIC
 
 ---
@@ -300,8 +300,8 @@ The **Statement of Stockholders' Equity** links it all:
 > [!question]- Why should analysts exclude SBC from core operating margins?
 > SBC is a non-cash but real economic cost that dilutes shareholders. It's also a management choice (grant size, vesting terms) and varies wildly year to year, reducing comparability.
 
-> [!question]- What drove the $1.03B gap between Tesla's 2025 net income and comprehensive income?
-> Foreign currency translation adjustments (+$1,038M) from global operations (Shanghai, Berlin) — an OCI item that bypasses the income statement but hits equity.
+> [!question]- What drove the \$1.03B gap between Tesla's 2025 net income and comprehensive income?
+> Foreign currency translation adjustments (+\$1,038M) from global operations (Shanghai, Berlin) — an OCI item that bypasses the income statement but hits equity.
 
 > [!question]- How can you detect if "restructuring" charges are actually recurring operating costs?
 > Check if they appear 3+ years in a row, if the same business units are repeatedly "restructured," and if the company's cost structure meaningfully improves afterward.
@@ -316,9 +316,9 @@ The **Statement of Stockholders' Equity** links it all:
 >
 > 1. **Revenue Quality**: Compute core automotive gross margin excluding regulatory credits for 2023–2025. Is the trend better or worse than reported consolidated gross margin?
 > 2. **Operating Leverage**: Calculate the decremental operating margin from 2024→2025 (change in operating income ÷ change in revenue). What does this tell you about Tesla's fixed cost structure?
-> 3. **SBC Impact**: Find total SBC in the Statement of Stockholders' Equity ($3,096M in 2025). Estimate SBC as % of revenue and % of operating income. How much would 2025 operating margin improve if SBC were excluded (non-GAAP view)?
+> 3. **SBC Impact**: Find total SBC in the Statement of Stockholders' Equity (\$3,096M in 2025). Estimate SBC as % of revenue and % of operating income. How much would 2025 operating margin improve if SBC were excluded (non-GAAP view)?
 > 4. **Nonoperating Volatility**: Trace "Other (expense) income" to the digital asset and FX footnotes. Compute 2025 net income excluding this line. How much did fair-value noise distort GAAP earnings?
-> 5. **Comprehensive Income**: Compare 2025 Net Income ($3,855M) to Comprehensive Income ($4,886M). Which OCI component drove the difference? Would you rather own a company where OCI consistently adds to or subtracts from net income?
+> 5. **Comprehensive Income**: Compare 2025 Net Income (\$3,855M) to Comprehensive Income (\$4,886M). Which OCI component drove the difference? Would you rather own a company where OCI consistently adds to or subtracts from net income?
 
 ---
 

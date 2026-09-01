@@ -25,10 +25,10 @@ aliases:
 | [[M4-Obj-4-2]] | Implement Peer Comparison and Benchmarking Analysis | Dual-criteria peer selection (line of business + size) · GAAP/IFRS & currency normalization · narrow slotting (head-to-head duel) · broad rating-group placement · management assertion testing |
 
 > [!success] Key Findings from the Tesla–BYD Comparison
-> - **Scale crossover**: BYD's revenue (¥804B ≈ $113B) overtook Tesla's ($94.8B) in 2025, delivering 4.60M vehicles (incl. 2.26M BEVs — passing Tesla as the world's largest BEV maker) against Tesla's 1.64M
+> - **Scale crossover**: BYD's revenue (¥804B ≈ \$113B) overtook Tesla's (\$94.8B) in 2025, delivering 4.60M vehicles (incl. 2.26M BEVs — passing Tesla as the world's largest BEV maker) against Tesla's 1.64M
 > - **Margin convergence under fire**: gross margins nearly identical (17.7% vs. 18.0%) as China's price war entered its "knockout stage"; both firms earn low-single-digit operating margins
 > - **Opposite financial machines**: BYD runs a negative cash conversion cycle (≈−28 days), 71% debt-to-assets dominated by supplier payables, and deeply negative free cash flow funding expansion; Tesla runs fast collections (+13.9-day CCC), a conservative balance sheet, and positive FCF while consolidating
-> - **Normalization reverses verdicts**: stripping Tesla's regulatory credits ($2.0B ≈ 46% of operating income) drops its core margin below BYD's subsidy-free equivalent
+> - **Normalization reverses verdicts**: stripping Tesla's regulatory credits (\$2.0B ≈ 46% of operating income) drops its core margin below BYD's subsidy-free equivalent
 
 ## The Module 4 Analytical Framework
 

@@ -27,20 +27,20 @@ aliases:
 
 | Line Item | 2023 | 2024 | 2025 |
 |-----------|-----:|-----:|-----:|
-| **Total Revenues** | **$96,773** | **$97,690** | **$94,827** |
-| Cost of revenues | $79,113 | $80,240 | $77,733 |
-| **Gross Profit** | **$17,660** | **$17,450** | **$17,094** |
-| R&D | $3,969 | $4,540 | $6,411 |
-| SG&A | $4,800 | $5,150 | $5,834 |
-| **Operating Income** | **$8,891** | **$7,076** | **$4,355** |
-| **Net Income** | **$14,974** | **$7,153** | **$3,855** |
-| Cash Flow from Operations | $13,256 | $14,923 | $14,747 |
-| Capital expenditures | $8,899 | $11,342 | $8,527 |
-| **Total Assets** | **$106,618** | **$122,070** | **$137,806** |
-| Accounts receivable | $3,508 | $4,418 | $4,576 |
-| Inventory | $13,626 | $12,017 | $12,392 |
-| Property, plant & equipment, net | $29,725 | $35,836 | $40,643 |
-| Accounts payable | $14,431 | $12,474 | $13,371 |
+| **Total Revenues** | **\$96,773** | **\$97,690** | **\$94,827** |
+| Cost of revenues | \$79,113 | \$80,240 | \$77,733 |
+| **Gross Profit** | **\$17,660** | **\$17,450** | **\$17,094** |
+| R&D | \$3,969 | \$4,540 | \$6,411 |
+| SG&A | \$4,800 | \$5,150 | \$5,834 |
+| **Operating Income** | **\$8,891** | **\$7,076** | **\$4,355** |
+| **Net Income** | **\$14,974** | **\$7,153** | **\$3,855** |
+| Cash Flow from Operations | \$13,256 | \$14,923 | \$14,747 |
+| Capital expenditures | \$8,899 | \$11,342 | \$8,527 |
+| **Total Assets** | **\$106,618** | **\$122,070** | **\$137,806** |
+| Accounts receivable | \$3,508 | \$4,418 | \$4,576 |
+| Inventory | \$13,626 | \$12,017 | \$12,392 |
+| Property, plant & equipment, net | \$29,725 | \$35,836 | \$40,643 |
+| Accounts payable | \$14,431 | \$12,474 | \$13,371 |
 
 ---
 
@@ -61,16 +61,16 @@ $$\text{Percentage Change} = \frac{\text{Current Period Balance} - \text{Prior P
 
 | Item | 2024 Δ$ | 2024 Δ% | 2025 Δ$ | 2025 Δ% |
 |------|--------:|--------:|--------:|--------:|
-| Revenue | +$917 | +0.9% | ($2,863) | (2.9)% |
-| Cost of revenues | +$1,127 | +1.4% | ($2,507) | (3.1)% |
-| Gross profit | ($210) | (1.2)% | ($356) | (2.0)% |
-| R&D | +$571 | +14.4% | +$1,871 | +41.2% |
-| SG&A | +$350 | +7.3% | +$684 | +13.3% |
-| Operating income | ($1,815) | (20.4)% | ($2,721) | (38.5)% |
-| Net income | ($7,821) | (52.2)% | ($3,298) | (46.1)% |
-| Cash flow from operations | +$1,667 | +12.6% | ($176) | (1.2)% |
-| Total assets | +$15,452 | +14.5% | +$15,736 | +12.9% |
-| PP&E, net | +$6,111 | +20.6% | +$4,807 | +13.4% |
+| Revenue | +\$917 | +0.9% | (\$2,863) | (2.9)% |
+| Cost of revenues | +\$1,127 | +1.4% | (\$2,507) | (3.1)% |
+| Gross profit | (\$210) | (1.2)% | (\$356) | (2.0)% |
+| R&D | +\$571 | +14.4% | +\$1,871 | +41.2% |
+| SG&A | +\$350 | +7.3% | +\$684 | +13.3% |
+| Operating income | (\$1,815) | (20.4)% | (\$2,721) | (38.5)% |
+| Net income | (\$7,821) | (52.2)% | (\$3,298) | (46.1)% |
+| Cash flow from operations | +\$1,667 | +12.6% | (\$176) | (1.2)% |
+| Total assets | +\$15,452 | +14.5% | +\$15,736 | +12.9% |
+| PP&E, net | +\$6,111 | +20.6% | +\$4,807 | +13.4% |
 
 Even at a glance, the asymmetry jumps out: revenue wobbled less than 3%, yet operating expenses surged while profits halved and halved again.
 
@@ -305,11 +305,11 @@ Using Tesla's 2024 data below, compute the velocity metrics:
 
 | Input | Value |
 |-------|------:|
-| Average accounts receivable | $3,963M |
-| Average inventory | $12,821.5M |
-| Average accounts payable | $13,452.5M |
-| Net sales (2024) | $97,690M |
-| COGS (2024) | $80,240M |
+| Average accounts receivable | \$3,963M |
+| Average inventory | \$12,821.5M |
+| Average accounts payable | \$13,452.5M |
+| Net sales (2024) | \$97,690M |
+| COGS (2024) | \$80,240M |
 
 1. DSO
 2. DSI
@@ -317,7 +317,7 @@ Using Tesla's 2024 data below, compute the velocity metrics:
 4. Cash Conversion Cycle
 
 > [!success]- Check Your Answers
-> Daily sales = 97,690 ÷ 365 = $267.6M/day; daily COGS = 80,240 ÷ 365 = $219.8M/day
+> Daily sales = 97,690 ÷ 365 = \$267.6M/day; daily COGS = 80,240 ÷ 365 = \$219.8M/day
 >
 > 1. DSO = 3,963 ÷ 267.6 = **14.8 days**
 > 2. DSI = 12,821.5 ÷ 219.8 = **58.3 days**

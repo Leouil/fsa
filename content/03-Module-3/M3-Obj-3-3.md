@@ -27,11 +27,11 @@ aliases:
 
 | Input | 2023 | 2024 | 2025 |
 |-------|-----:|-----:|-----:|
-| Net income | $14,974 | $7,153 | $3,855 |
-| Total revenues | $96,773 | $97,690 | $94,827 |
-| Average total assets | $94,478 | $114,344 | $129,938 |
-| Average stockholders' equity | $53,669 | $67,773 | $77,525 |
-| Interest expense | $156 | $350 | $338 |
+| Net income | \$14,974 | \$7,153 | \$3,855 |
+| Total revenues | \$96,773 | \$97,690 | \$94,827 |
+| Average total assets | \$94,478 | \$114,344 | \$129,938 |
+| Average stockholders' equity | \$53,669 | \$67,773 | \$77,525 |
+| Interest expense | \$156 | \$350 | \$338 |
 
 *Opening (Dec 31, 2022) balances used in averages: total assets \$82,338; stockholders' equity \$44,704.*
 
@@ -142,9 +142,9 @@ Adding back the *after-tax* cost of interest strips financing effects out of ROA
 
 | Year | Net Income | + Interest × (1−21%) | Adjusted ROA | ROE | **FLI** |
 |------|-----------:|---------------------:|-------------:|----:|--------:|
-| 2023 | $14,974 | +$123 | 16.0% | 27.9% | **1.75** |
-| 2024 | $7,153 | +$277 | 6.5% | 10.6% | **1.62** |
-| 2025 | $3,855 | +$267 | 3.2% | 5.0% | **1.57** |
+| 2023 | \$14,974 | +\$123 | 16.0% | 27.9% | **1.75** |
+| 2024 | \$7,153 | +\$277 | 6.5% | 10.6% | **1.62** |
+| 2025 | \$3,855 | +\$267 | 3.2% | 5.0% | **1.57** |
 
 *\*A statutory 21% tax rate is used because Tesla's effective rates are distorted — 2023's was negative (−50%) due to the one-time deferred-tax benefit, which would corrupt the adjustment.*
 
@@ -165,9 +165,9 @@ Since the first three factors multiply back to ROE, EPS = ROE × BVPS. Using ave
 | Component | 2023 | 2024 | 2025 |
 |-----------|-----:|-----:|-----:|
 | ROE | 27.9% | 10.6% | 5.0% |
-| Book value per share (avg) | $16.91 | $21.18 | $22.25 |
-| **Implied EPS** | **$4.72** | **$2.23** | **$1.11** |
-| Reported diluted EPS | $4.30 | $2.04 | $1.08 |
+| Book value per share (avg) | \$16.91 | \$21.18 | \$22.25 |
+| **Implied EPS** | **\$4.72** | **\$2.23** | **\$1.11** |
+| Reported diluted EPS | \$4.30 | \$2.04 | \$1.08 |
 
 *Differences arise from noncontrolling-interest attribution and averaging conventions — the identity approximates basic EPS well.*
 
@@ -254,11 +254,11 @@ Using Tesla's 2024 inputs below, rebuild the full Du Pont chain:
 
 | Input | Value |
 |-------|------:|
-| Net income | $7,153M |
-| Net sales | $97,690M |
-| Average total assets | $114,344M |
-| Average stockholders' equity | $67,773M |
-| Interest expense | $350M (statutory tax rate 21%) |
+| Net income | \$7,153M |
+| Net sales | \$97,690M |
+| Average total assets | \$114,344M |
+| Average stockholders' equity | \$67,773M |
+| Interest expense | \$350M (statutory tax rate 21%) |
 
 1. Net margin and asset turnover
 2. ROA (classic identity)

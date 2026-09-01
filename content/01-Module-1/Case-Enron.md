@@ -18,7 +18,7 @@ aliases:
 
 ## The Story in Brief
 
-Enron, originally a natural-gas pipeline operator, reinvented itself as an energy *trader* in the 1990s — buying and selling energy contracts, bandwidth, and other commodities. The market believed it was one of the most innovative companies in America. In late 2001 it collapsed into bankruptcy in a matter of weeks, erasing over $60 billion of market value, and its auditor (Arthur Andersen) went out of business with it.
+Enron, originally a natural-gas pipeline operator, reinvented itself as an energy *trader* in the 1990s — buying and selling energy contracts, bandwidth, and other commodities. The market believed it was one of the most innovative companies in America. In late 2001 it collapsed into bankruptcy in a matter of weeks, erasing over \$60 billion of market value, and its auditor (Arthur Andersen) went out of business with it.
 
 The collapse happened because the reported profits rested on three techniques that were largely within the letter of the accounting rules of the time:
 
