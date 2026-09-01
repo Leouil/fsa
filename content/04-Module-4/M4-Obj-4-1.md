@@ -60,20 +60,22 @@ Module 3 taught you to measure margins, velocity, and returns with precision. Bu
 
 Before analyzing competition, map how value physically flows from mine to driveway:
 
-```
-┌──────────────┐   ┌──────────────┐   ┌─────────────────┐   ┌──────────────────┐
-│ RAW MATERIAL │   │ CELL MAKING  │   │ COMPONENTS &    │   │ VEHICLE ASSEMBLY │
-│ lithium      │ → │ battery cells│ → │ powertrain,     │ → │ stamping, body,  │
-│ nickel/cobalt│   │ CATL · BYD · │   │ chips, ADAS     │   │ paint, final assy│
-│ steel        │   │ LG · Panasonic│  │ software        │   │                  │
-└──────────────┘   └──────────────┘   └─────────────────┘   └────────┬─────────┘
-                                                                     ▼
-┌──────────────────┐   ┌─────────────────────────────────────────────────────┐
-│ SERVICE & ENERGY │   │ SALES & DISTRIBUTION                                │
-│ charging networks│ ← │ direct-to-consumer (Tesla) vs. dealer/franchise nets│
-│ insurance, FSD   │   │ BYD: domestic dealers + rapidly expanding exports   │
-└──────────────────┘   └─────────────────────────────────────────────────────┘
-```
+<div style="display:flex;flex-direction:column;align-items:center;gap:0.5rem;margin:1rem 0">
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;width:100%">
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.35rem 0.4rem;flex:1 1 0;min-width:0;text-align:center"><b>RAW MATERIAL</b><br/><span style="font-size:0.8em">lithium · nickel · steel</span></div>
+    <div style="font-size:1.1rem;color:var(--secondary);padding:0 0.15rem">→</div>
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.35rem 0.4rem;flex:1 1 0;min-width:0;text-align:center"><b>CELL MAKING</b><br/><span style="font-size:0.8em">CATL · BYD · LG · Panasonic</span></div>
+    <div style="font-size:1.1rem;color:var(--secondary);padding:0 0.15rem">→</div>
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.35rem 0.4rem;flex:1 1 0;min-width:0;text-align:center"><b>COMPONENTS &amp; SOFTWARE</b><br/><span style="font-size:0.8em">powertrain · chips · ADAS</span></div>
+    <div style="font-size:1.1rem;color:var(--secondary);padding:0 0.15rem">→</div>
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.35rem 0.4rem;flex:1 1 0;min-width:0;text-align:center"><b>VEHICLE ASSEMBLY</b><br/><span style="font-size:0.8em">stamping · paint · final assy</span></div>
+  </div>
+  <div style="width:2px;height:1rem;background:var(--gray)"></div>
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:1rem;width:100%">
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.5rem 1rem;flex:1 1 200px;max-width:320px;text-align:center"><b>SERVICE &amp; ENERGY</b><br/><span style="font-size:0.9em">charging networks · insurance · FSD</span><br/><span style="font-size:0.85em">←</span></div>
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.5rem 1rem;flex:1 1 260px;max-width:420px;text-align:center"><b>SALES &amp; DISTRIBUTION</b><br/><span style="font-size:0.9em">direct-to-consumer (Tesla) vs. dealer/franchise nets<br/>BYD: domestic dealers + rapidly expanding exports</span></div>
+  </div>
+</div>
 
 Each stage has different economics — different capital intensity, margins, and bargaining dynamics. **Integration depth is a strategic choice with direct financial consequences:**
 

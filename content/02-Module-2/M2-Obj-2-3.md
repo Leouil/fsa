@@ -92,17 +92,20 @@ This classic scenario illustrates how a company can go broke while showing a pro
 
 Under **SFAS 95** (mandatory for fiscal years ending after July 15, 1988), cash flows must be classified into three distinct categories:
 
-```
-                      ┌─────────────────────────────────┐
-                      │   TOTAL CHANGE IN CASH & EQUIV  │
-                      └────────────────┬────────────────┘
-                                       │
-          ┌────────────────────────────┼────────────────────────────┐
-          ▼                            ▼                            ▼
-┌─────────────────┐          ┌─────────────────┐          ┌─────────────────┐
-│ OPERATING (CFO) │          │ INVESTING (CFI) │          │ FINANCING (CFF) │
-└─────────────────┘          └─────────────────┘          └─────────────────┘
-```
+  <div style="display:flex;flex-direction:column;align-items:center;gap:0.35rem;margin:1rem 0;text-align:center">
+  <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.5rem 1.2rem;font-weight:600">TOTAL CHANGE IN CASH &amp; EQUIV</div>
+  <div style="width:2px;height:1rem;background:var(--gray)"></div>
+  <div style="display:flex;width:100%;align-items:center;justify-content:center;gap:0.5rem;color:var(--secondary)">
+    <div style="height:2px;flex:0 0 31%;background:var(--gray)"></div>
+    <div style="font-size:0.85rem">▼</div>
+    <div style="height:2px;flex:0 0 31%;background:var(--gray)"></div>
+  </div>
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:1rem;width:100%">
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 1rem;flex:1 1 180px;max-width:280px"><b>OPERATING</b><br/>CFO</div>
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 1rem;flex:1 1 180px;max-width:280px"><b>INVESTING</b><br/>CFI</div>
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 1rem;flex:1 1 180px;max-width:280px"><b>FINANCING</b><br/>CFF</div>
+  </div>
+</div>
 
 #### 1. Operating Activities (CFO)
 
@@ -259,20 +262,20 @@ $$\text{CFO} = \text{Net Income} + \text{Non-Cash Expenses} \pm \text{Non-Operat
 
 Proactive analysts do not take CFO at face value. Managers use several techniques to artificially inflate CFO:
 
-```
-                ┌─────────────────────────────────────┐
-                │    STRATEGIES TO ARTIFICIALLY       │
-                │            INFLATE CFO              │
-                └──────────────────┬──────────────────┘
-                                   │
-       ┌───────────────────────────┼───────────────────────────┐
-       ▼                           ▼                           ▼
-┌──────────────┐            ┌──────────────┐            ┌──────────────┐
-│ Capitalizing │            │ Receivable   │            │ Managing     │
-│ Operating    │            │ Factoring    │            │ Supplier     │
-│ Expenses     │            │  (Sales)     │            │ Payables     │
-└──────────────┘            └──────────────┘            └──────────────┘
-```
+<div style="display:flex;flex-direction:column;align-items:center;gap:0.35rem;margin:1rem 0;text-align:center">
+  <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.5rem 1.4rem;font-weight:600">STRATEGIES TO ARTIFICIALLY INFLATE CFO</div>
+  <div style="width:2px;height:1rem;background:var(--gray)"></div>
+  <div style="display:flex;width:100%;align-items:center;justify-content:center;gap:0.5rem;color:var(--secondary)">
+    <div style="height:2px;flex:0 0 31%;background:var(--gray)"></div>
+    <div style="font-size:0.85rem">▼</div>
+    <div style="height:2px;flex:0 0 31%;background:var(--gray)"></div>
+  </div>
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:1rem;width:100%">
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 1rem;flex:1 1 180px;max-width:280px"><b>Capitalizing</b><br/>Operating Expenses</div>
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 1rem;flex:1 1 180px;max-width:280px"><b>Receivable</b><br/>Factoring (Sales)</div>
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 1rem;flex:1 1 180px;max-width:280px"><b>Managing</b><br/>Supplier Payables</div>
+  </div>
+</div>
 
 #### 1. Capitalizing Operating Expenses
 - **Scheme**: Reclassify OpEx (maintenance, line costs) as CapEx

@@ -133,21 +133,20 @@ On a common-size balance sheet, the designated base is **Total Assets** (mathema
 
 On a common-size income statement, the base is **Net Sales (Total Revenue)** = 100%. Recasting expenses as percentages of sales exposes the underlying cost structure and the efficiency of converting revenue into profit.
 
-```
-                     ┌──────────────────────────────────────┐
-                     │          NET SALES = 100%            │
-                     └──────────────────┬───────────────────┘
-                                        │
-           ┌────────────────────────────┼────────────────────────────┐
-           ▼                            ▼                            ▼
-┌──────────────────────┐     ┌──────────────────────┐     ┌──────────────────────┐
-│ GROSS PROFIT MARGIN  │     │ OPERATING MARGIN     │     │  NET PROFIT MARGIN   │
-│                      │     │                      │     │                      │
-│   (Sales - COGS)     │     │  Operating Profit    │     │     Net Income       │
-│  ─────────────       │     │  ────────────────    │     │  ─────────────       │
-│       Sales          │     │        Sales         │     │       Sales          │
-└──────────────────────┘     └──────────────────────┘     └──────────────────────┘
-```
+<div style="display:flex;flex-direction:column;align-items:center;gap:0.35rem;margin:1rem 0;text-align:center">
+  <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.5rem 1.4rem;font-weight:600">NET SALES = 100%</div>
+  <div style="width:2px;height:1rem;background:var(--gray)"></div>
+  <div style="display:flex;width:100%;align-items:center;justify-content:center;gap:0.5rem;color:var(--secondary)">
+    <div style="height:2px;flex:0 0 31%;background:var(--gray)"></div>
+    <div style="font-size:0.85rem">▼</div>
+    <div style="height:2px;flex:0 0 31%;background:var(--gray)"></div>
+  </div>
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:1rem;width:100%">
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 1rem;flex:1 1 200px;max-width:300px"><b>GROSS PROFIT MARGIN</b><br/>(Sales − COGS) / Sales</div>
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 1rem;flex:1 1 200px;max-width:300px"><b>OPERATING MARGIN</b><br/>Operating Profit / Sales</div>
+    <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 1rem;flex:1 1 200px;max-width:300px"><b>NET PROFIT MARGIN</b><br/>Net Income / Sales</div>
+  </div>
+</div>
 
 #### Tesla's Common-Size Income Statement (% of Revenue)
 

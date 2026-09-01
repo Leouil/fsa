@@ -140,22 +140,32 @@ Unlike YoY changes, CAGR smooths uneven paths into one level annual rate. For Te
 
 Ratios become exponentially more powerful when tracked horizontally — a single year's turnover number says little; three years of it tells a story. Velocity metrics measure how fast working capital moves through the operational loop:
 
-```
-┌────────────────────────────────────────────────────────┐
-│               THE WORKING CAPITAL CYCLE                │
-└───────────────────────────┬────────────────────────────┘
-                            │
-      ┌─────────────────────┴─────────────────────┐
-      ▼                                           ▼
-┌──────────────┐                            ┌──────────────┐
-│  OPERATIONAL │                            │  FINANCIAL   │
-│  VELOCITY    │                            │  VELOCITY    │
-└──────┬───────┘                            └──────┬───────┘
-       │                                           │
-       ├─► Days Inventory Held (DSI)               └─► Days Payable Outstanding (DPO)
-       │
-       └─► Days Sales Outstanding (DSO)
-```
+<div style="display:flex;flex-direction:column;align-items:center;gap:0.35rem;margin:1rem 0;text-align:center">
+  <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.5rem 1.6rem;font-weight:600">THE WORKING CAPITAL CYCLE</div>
+  <div style="width:2px;height:1rem;background:var(--gray)"></div>
+  <div style="display:flex;width:100%;align-items:center;justify-content:center;gap:0.5rem;color:var(--secondary)">
+    <div style="height:2px;flex:0 0 42%;background:var(--gray)"></div>
+    <div style="font-size:0.85rem">▼</div>
+    <div style="height:2px;flex:0 0 42%;background:var(--gray)"></div>
+  </div>
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:2rem;width:100%">
+    <div style="flex:1 1 260px;max-width:360px;text-align:center">
+      <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.5rem 1rem;font-weight:600">OPERATIONAL VELOCITY</div>
+      <div style="width:2px;height:0.9rem;background:var(--gray);margin:0 auto"></div>
+      <ul style="text-align:left;margin:0.4rem 0 0;padding-left:1.2rem">
+        <li>→ Days Inventory Held (DSI)</li>
+        <li>→ Days Sales Outstanding (DSO)</li>
+      </ul>
+    </div>
+    <div style="flex:1 1 260px;max-width:360px;text-align:center">
+      <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.5rem 1rem;font-weight:600">FINANCIAL VELOCITY</div>
+      <div style="width:2px;height:0.9rem;background:var(--gray);margin:0 auto"></div>
+      <ul style="text-align:left;margin:0.4rem 0 0;padding-left:1.2rem">
+        <li>→ Days Payable Outstanding (DPO)</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 *All Tesla figures below use **average balances** — (beginning + ending) ÷ 2 — so they align with the full-year income statement flows.*
 
