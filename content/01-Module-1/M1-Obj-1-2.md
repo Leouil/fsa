@@ -190,13 +190,66 @@ Management has discretion in several areas that can make their numbers look bett
 
 > [!example] Practice: Analyze Management Incentives
 >
-> Select a company and:
-> 1. Read the MD&A section thoroughly
-> 2. Summarize three key management assertions; Identify one area where management has accounting discretion (potential manipulation)
-> 3. Look for language suggesting growth expectations management
-> 4. Summarize the red flags
-> 5. Assess whether the company has taken a "big bath" in recent years
-> 6. Consider the CEO's planning horizon — are they likely to be there when the reckoning comes?
+> Analyzing management incentives from an MD&A section is a demanding task. To make it tractable, work through the example below using **Tesla's FY2025 10-K** — the identical filing used in [[M1-Obj-1-3]] (Part II, Item 7; pages 31–43, or open it through the [[M1-Obj-1-3]] EDGAR viewer link). This demonstrates **how** to complete each step. After walking through the example, select a company of your own choice and repeat the same steps yourself.
+>
+> **Step 1 — Read the MD&A section thoroughly**
+>
+> When you open the filing, confirm that **Item 7 (MD&A)** is the analytical heart of the 10-K (review the 10-K anatomy in [[M1-Obj-1-3]]). Note its sub-sections and where each topic is discussed:
+>
+> - **Overview and 2025 Highlights** — the headline results
+> - **Management Opportunities, Challenges and Uncertainties and 2026 Outlook** — management's forward-looking narrative
+> - **Critical Accounting Policies and Estimates** — where estimation discretion is explained
+> - **Results of Operations** — revenue and cost drivers
+> - **Liquidity and Capital Resources / Summary of Cash Flows** — funding and cash generation
+>
+> **Step 2 — Summarize three key management assertions; identify one area where management has accounting discretion (potential manipulation)**
+>
+> Three assertions you could pull from Tesla's MD&A:
+>
+> 1. **"Our business has generally been consistently generating cash flow from operations in excess of our level of capital spend"** — a claim of financial self-sufficiency.
+> 2. **"We are focused on bringing artificial intelligence into the real world"** — positioning FSD (Supervised), Robotaxi, and Optimus as the engine of future growth.
+> 3. **"We believe that our current sources of funds will provide us with adequate liquidity during the 12-month period following December 31, 2025"** — a liquidity assurance.
+>
+> Now identify an accounting-discretion area. Start with the **Critical Accounting Policies and Estimates** sub-section. A strong candidate:
+>
+> - **Warranty reserves** — the MD&A's **Critical Accounting Policies** sub-section notes that warranty accruals rely on estimates that are "inherently uncertain." Tesla's auditor further identifies the automotive warranty reserve — totaling approximately **\$8.6 billion** at December 31, 2025 — as a **critical audit matter**, underscoring how much judgment it requires. Warranty accruals are a classic **cookie-jar reserve** channel: management could over-accrue in good years and release the excess in weaker ones.
+>
+> Other discretion areas you could examine from the same sub-section: **FSD (Supervised) revenue recognition timing** (revenue recognized when functionality is delivered, with ongoing maintenance recognized over time), **inventory write-down estimates** ("a small change in our estimates may result in a material charge"), and **useful-life and residual-value assumptions** for leased vehicles.
+>
+> **Step 3 — Look for language suggesting growth expectations management**
+>
+> In the **2026 Outlook** sub-section, Tesla manages growth expectations while facing declining top-line results:
+>
+> - **"We believe the launch of our Robotaxi service unlocks the potential for significant business growth"** — a growth promise tied to a nascent product.
+> - **"We currently expect our capital expenditures to be in excess of \$20 billion in 2026"** — signaling continued heavy future investment.
+> - **"Our new products and our advances in autonomy and robotics, position us for future growth"** — a "new products" narrative.
+>
+> Now contrast that tone with the actual **2025 results** in the same document: total revenues **decreased 3%** (from \$97.69 billion to \$94.83 billion) and net income fell \$3.30 billion. The gap between management's projected growth and the realized decline is a textbook **corporate credibility gap** — bullish future language alongside shrinking current results.
+>
+> **Step 4 — Summarize the red flags**
+>
+> Combine the MD&A's own numbers with the tone of its narrative. Checks a skeptical analyst would make:
+>
+> | Red flag | Evidence from Tesla's MD&A (2025 vs. 2024) |
+> |---|---|
+> | Declining revenue | Total revenues \$94.83B, down 3% |
+> | Declining automotive margins | Automotive gross margin 19.4% → 18.4% → 17.8% (2023→2025) |
+> | Reliance on a non-core revenue stream | Automotive regulatory credits down 28% (\$2.76B → \$1.99B) |
+> | Recurring restructuring charges | \$684M (2024), \$494M (2025), \$0 (2023) |
+> | Rapidly rising cost base while revenue shrinks | R&D up 41%, SG&A up 13%, driven in part by higher stock-based compensation |
+> | Distorted one-off items | 2023 included a \$5.0B income-tax *benefit*; 2025 effective tax rate jumped to 27% |
+> | Volatile non-operating items | Other income swung from +\$695M to −\$419M (bitcoin and FX mark-to-market) |
+>
+> **Step 5 — Assess whether the company has taken a "big bath" in recent years**
+>
+> Look for years where management loaded unusual charges into a single period to set up easy future comparisons. Tesla's evidence:
+>
+> - Restructuring and other charges: **\$684M in 2024** (including \$583M of employee-termination expenses) and **\$494M in 2025** (including \$390M for AI chip-design convergence), but **\$0 in 2023** (see the MD&A's *Results of Operations*).
+> - The notes to the financial statements (Item 8) disclose there were **no material impairments** of long-lived assets, goodwill, or capitalized software in 2025, 2024, or 2023.
+>
+> **How to read this:** the charges are recurring across two consecutive years and are modest relative to Tesla's scale — and the absence of large impairments argues *against* a classic one-year "big bath" designed to reset a low earnings base. A skeptical conclusion would be: **recurring, opportunistic cost-cleaning charges, not a textbook big bath** — but confirm you reached this by checking the same line items yourself.
+>
+> **Verify the worked example:** reopen the same Tesla 10-K (using the EDGAR viewer in [[M1-Obj-1-3]]), search the quoted phrases, and cross-check the MD&A figures against Item 8 (Financial Statements) and the notes. Once verified, repeat Steps 1–5 for a company of your choosing.
 
 ---
 
