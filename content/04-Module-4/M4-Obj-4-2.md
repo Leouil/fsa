@@ -76,7 +76,7 @@ Four adjustments precede any cross-border ratio table:
 1. **Accounting framework (US GAAP vs. IFRS)** — broadly converged today, but presentation differs: line-item granularity (BYD reports combined selling/administrative expenses; Tesla splits them), development-cost capitalization options, and lease treatment nuances. Effect here: compare *ratios computed from totals* (gross margin, operating margin), not individual expense lines.
 2. **Currency** — ratios are currency-neutral: gross margin is a percentage in any currency. Only *absolute* comparisons need conversion, and then state the rate explicitly (this note uses ≈7.10 CNY/USD; the rate itself moves, so label every converted figure as context, not precision).
 3. **Fiscal calendar** — both firms close December 31. Easy win; many peer sets are not so lucky (Toyota closes March 31 — a quarter of macro drift embedded in every "same-year" comparison).
-4. **One-off items** — strip non-recurring effects before reading profitability. The flagship example: Tesla's **regulatory credit sales (\$2.0B in FY2025)** carry nearly pure margin and equal **~46% of operating income** ([[M2-Obj-2-2]]). Excluding them, Tesla's core automotive operating margin is materially lower than the headline 4.6% — while BYD earns its 4.2% with no comparable subsidy line. Headlines flatter; normalized numbers compare.
+4. **One-off items** — strip non-recurring effects before reading profitability. The flagship example: Tesla's **regulatory credit sales (\$2.0B in FY2025)** carry nearly pure margin and equal **~46% of operating income** ([[M2-Obj-2-2]]). Excluding them, Tesla's core operating margin falls to ~2.5%. BYD is not subsidy-free either: its headline operating margin is 5.0%, and it carries **¥12.5B of government grants inside "Other income"** (≈31% of operating profit, note 51), which drops it to ~3.4% once stripped. Neither firm's headline reflects its core operations. Headlines flatter; normalized numbers compare.
 
 > [!tip] The Normalized Duel Is the Honest Duel
 > After stripping regulatory credits, the 2025 story sharpens: two price-war combatants both earning low-single-digit core operating margins — but BYD converting volume growth into profit growth trajectory, Tesla absorbing volume decline into fixed-cost pain. That conclusion was invisible before normalization.
@@ -91,7 +91,7 @@ Four adjustments precede any cross-border ratio table:
 | ------------------------------ | ----------------------: | --------------: | ----------------------------------------------------------------- |
 | Revenue growth                 |                   −2.9% |           +3.5% | **BYD** — still compounding through the price war                 |
 | Gross margin                   |                   18.0% |           17.7% | Dead heat — identical pricing pressure                            |
-| Operating margin               | 4.6% (~2.5% ex-credits) |            4.2% | **BYD on quality** — no subsidy dependence                        |
+| Operating margin               | 4.6% (~2.5% ex-credits) | 5.0% (~3.4% ex-grants) | **BYD on quality** — leads even after normalizing both firms' one-offs |
 | Net margin                     |                   ~4.1% |           ~4.1% | Tie at the bottom line                                            |
 | R&D ÷ revenue                  |                    6.8% |           ~7.9% | **BYD** — the cost leader out-invests the innovator               |
 | Asset turnover                 |                   0.73× |           0.96× | **BYD** — classic cost-leader compensation                        |
@@ -100,7 +100,7 @@ Four adjustments precede any cross-border ratio table:
 | DPO                            |               60.7 days |       ≈125 days | **BYD** — suppliers fund half its operating cycle                 |
 | Cash conversion cycle          |              +13.9 days |   **≈−28 days** | **BYD, decisively** — cash arrives *before* it must pay suppliers |
 | Debt-to-assets (total)         |                    ~40% |            ~71% | **Tesla optically** — but see the payables note below             |
-| Interest-bearing debt ÷ assets |                   ~40%* |            ~14% | **BYD actually** — most of its "debt" is free supplier credit     |
+| Interest-bearing debt ÷ assets |                   ~40%* |            ~13% | **BYD actually** — most of its "debt" is free supplier credit     |
 | ROA                            |                    3.0% |            3.9% | **BYD**                                                           |
 | ROE                            |                    5.0% |            ≈15% | **BYD** — higher leverage × higher ROA compound ([[M3-Obj-3-3]])  |
 | Free cash flow                 |                positive | deeply negative | **Tesla** — harvesting while BYD invests                          |
@@ -142,7 +142,7 @@ The source framework's sharpest tool: treat management narrative as a hypothesis
 
 | Management assertion (2025)                                                        | Statement test                                                                                                 | Verdict                                                                                            |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| BYD: price war has reached the "knockout stage" — survivors will consolidate gains | GM compressed 19.4% → 17.7%; operating margin held ~4%; FCF −¥98B funded by equity placement                   | **Consistent but costly** — survival posture visible in the cash flow statement, not just rhetoric |
+| BYD: price war has reached the "knockout stage" — survivors will consolidate gains | GM compressed 19.4% → 17.7%; operating margin held ~5%; FCF −¥98B funded by equity placement                   | **Consistent but costly** — survival posture visible in the cash flow statement, not just rhetoric |
 | Tesla: affordability push ("starting-price strategy") will restore volume          | Deliveries fell 8.6% despite price cuts; ASP declined with gross margin flat — volume did not respond to price | **Contradicted so far** — demand constraint is not primarily price                                 |
 | Tesla: energy storage is the second growth engine                                  | 46.7 GWh deployed (+113%); segment margins improving                                                           | **Confirmed** — the diversification claim survives peer-adjusted scrutiny                          |
 | BYD: exports are the next profit pool                                              | 1.05M exported (+140%), but tariff walls cap access to the two richest markets (US/EU)                         | **Partially confirmed** — growth real, profitability unproven until localization capex lands       |
@@ -183,13 +183,13 @@ The source framework's sharpest tool: treat management narrative as a hypothesis
 > A gross margin computed in CNY equals the same margin translated to USD — percentage relationships survive translation. Conversion matters only for absolute magnitudes (market-cap gaps, R&D dollar totals), and then the analyst must disclose the assumed rate.
 
 > [!question]- Q3: What is Tesla's regulatory-credit issue in a peer comparison, quantitatively?
-> \$2.0B of near-pure-margin revenue equaling ~46% of FY2025 operating income. Unadjusted, Tesla's 4.6% operating margin appears superior to BYD's subsidy-free 4.2%; adjusted, Tesla's core margin falls well below. The one-off strip reverses the verdict — which is why normalization precedes comparison.
+> \$2.0B of near-pure-margin revenue equaling ~46% of FY2025 operating income. Tesla's headline operating margin is 4.6%; stripping the credits drops core margin to ~2.5%. BYD's headline is 5.0%, falling to ~3.4% only after its own ¥12.5B of government grants (note 51) are stripped. BYD leads both before and after adjustment — but normalization nearly halves Tesla's margin and *widens* the gap, which is why it precedes comparison.
 
 > [!question]- Q4: Interpret BYD's negative cash conversion cycle (−28 days) alongside its negative free cash flow.
 > Negative CCC means working capital *releases* cash — suppliers finance inventory and receivables. Negative FCF shows total cash still flowing out because CapEx dwarfs that release. Together: an expansion machine using free supplier credit to help fund fixed-asset investment — brilliant while volumes grow, dangerous if they stall.
 
 > [!question]- Q5: Why is BYD's 71% debt-to-assets less alarming than it looks?
-> Most of it is ¥209B of non-interest-bearing trade payables — extended payment terms, not borrowed money. Interest-bearing debt is only ~14% of assets. Comparing "total liabilities" across firms with different supply-chain financing models misleads; decompose before judging.
+> Most of it is ¥209B of non-interest-bearing trade payables — extended payment terms, not borrowed money. Interest-bearing debt is only ~13% of assets (bank loans and bonds ≈RMB 113.4B). Comparing "total liabilities" across firms with different supply-chain financing models misleads; decompose before judging.
 
 > [!question]- Q6: Which management assertion from Section V would you monitor first next year, and what number would falsify it?
 > Open answer. Strong candidate: BYD export profitability — falsified if overseas gross margin stays materially below domestic once localization CapEx depreciates onto the books. Equally defensible: Tesla volume response to cheaper trims — falsified by another year of sub-market delivery growth.

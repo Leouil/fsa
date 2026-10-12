@@ -31,7 +31,7 @@ aliases:
 | Revenue | \$94.8B (**−2.9%**) | ¥804.0B ≈ \$113B (**+3.5%**) |
 | Vehicles delivered | 1,636,129 BEVs (**−8.6%**) | 4,602,436 NEVs (**+7.7%**)¹ |
 | Gross margin | 18.0% | 17.7% (down from 19.4%) |
-| Operating margin | 4.6% | 4.2% |
+| Operating margin | 4.6% | 5.0% |
 | R&D ÷ revenue | 6.8% | ~7.9% |
 | Free cash flow | **+\$6.2B** | **−¥97.7B** |
 
@@ -151,7 +151,7 @@ The common wisdom is that product mix drives profitability (high-markup products
 Both firms own their factories — unlike Boston Beer's contract model — so both carry high fixed costs and high operating leverage. The divergence is in *utilization*:
 
 - **Tesla 2025** demonstrated the downside: revenue fell 2.9% but operating income fell 38.5% — a ~93% decremental margin ([[M2-Obj-2-2]]). Fixed depreciation, factory overhead, and now-heavier R&D did not shrink with sales.
-- **BYD**, producing nearly 3× Tesla's volume across a wider plant network, spread its fixed costs over enough units that even deeper price cuts left a 4.2% operating margin standing.
+- **BYD**, producing nearly 3× Tesla's volume across a wider plant network, spread its fixed costs over enough units that even deeper price cuts left a 5.0% operating margin standing.
 
 Same strategic choice (own everything), different outcomes — because operating leverage amplifies whatever the *volume trend* delivers.
 
