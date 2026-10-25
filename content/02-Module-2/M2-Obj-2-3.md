@@ -27,11 +27,19 @@ aliases:
 |-----------|-----:|-----:|-----:|
 | **Operating Activities (CFO)** | | | |
 | Net Income | \$3,855 | \$7,153 | \$14,974 |
-| Stock-Based Compensation | \$2,825 | \$1,999 | \$1,812 |
-| Depreciation & Amortization (est.) | ~\$3,500 | ~\$3,200 | ~\$2,900 |
-| Digital asset loss/(gain), net | \$68 | (\$589) | — |
+| Depreciation, amortization & impairment | \$6,148 | \$5,368 | \$4,667 |
+| Stock-based compensation | \$2,825 | \$1,999 | \$1,812 |
+| Inventory & purchase-commitment write-downs | \$362 | \$335 | \$463 |
+| Foreign-currency transaction loss/(gain), net | \$452 | (\$73) | (\$144) |
 | Deferred income taxes | \$123 | \$477 | (\$6,349) |
-| Changes in operating assets/liabilities (net) | +\$1,374 | +\$2,083 | +\$1,586 |
+| Non-cash interest and other operating | \$272 | \$172 | \$81 |
+| Digital assets loss/(gain), net | \$68 | (\$589) | — |
+| Δ Operating lease vehicles | (\$25) | (\$590) | (\$1,952) |
+| Δ Accounts receivable | (\$261) | (\$1,083) | (\$586) |
+| Δ Inventory | (\$630) | \$937 | (\$1,195) |
+| Δ Prepaid expenses & other assets | (\$3,181) | (\$3,273) | (\$2,652) |
+| Δ Accounts payable, accrued & other | \$4,376 | \$3,588 | \$2,605 |
+| Δ Deferred revenue | \$363 | \$502 | \$1,532 |
 | **Net Cash Provided by Operating Activities** | **\$14,747** | **\$14,923** | **\$13,256** |
 | **Investing Activities (CFI)** | | | |
 | Purchases of PPE (CapEx) | (\$8,527) | (\$11,342) | (\$8,899) |
@@ -47,7 +55,7 @@ aliases:
 | **Net Cash Provided by Financing Activities** | **\$1,139** | **\$3,853** | **\$2,589** |
 | **Free Cash Flow (CFO − CapEx)** | **\$6,220** | **\$3,581** | **\$4,357** |
 
-> *D&A not separately disclosed in Tesla's cash flow statement; estimated from PP&E rollforward and footnotes. Free Cash Flow = CFO − CapEx.*
+> *Depreciation, amortization and impairment is reported on the face of Tesla's cash flow statement (second adjustment line). Free Cash Flow = CFO − CapEx.*
 
 ---
 
@@ -67,11 +75,12 @@ The Statement of Cash Flows serves as the final "reality check" for a business. 
 > | Driver | 2023 | 2025 | Change |
 > |---|---:|---:|---:|
 > | Net Income | \$14,974M | \$3,855M | **−\$11,119M** |
+> | D&A & impairment | \$4,667M | \$6,148M | +\$1,481M |
 > | SBC | \$1,812M | \$2,825M | +\$1,013M |
-> | D&A (est.) | ~\$2,900M | ~\$3,500M | +\$600M |
-> | Digital asset swing | — | \$68M loss | +\$68M |
 > | Deferred tax swing | (\$6,349M) | +\$123M | +\$6,472M |
-> | Working capital | +\$1,586M | +\$1,374M | −\$212M |
+> | Other non-cash (write-downs, FX, non-cash interest) | +\$400M | +\$1,086M | +\$686M |
+> | Digital asset swing | — | \$68M loss | +\$68M |
+> | Working capital & operating leases | (\$2,248M) | +\$642M | +\$2,890M |
 > | **CFO** | **\$13,256M** | **\$14,747M** | **+\$1,491M** |
 >
 > The "profit disappearance" was largely **non-cash**: a massive deferred tax *benefit* in 2023 (from releasing a valuation allowance) reversed to an expense in 2025, and SBC/D&A grew. The cash-generating capacity of the business — selling cars, collecting cash, paying suppliers — actually **improved**.
@@ -127,7 +136,7 @@ Transactions that enter into the determination of net income and reflect the del
 - **Core**: Cash collected from customers (auto, energy, services)
 - **Working capital boost**: AP/accrued **+\$4,376M** (vendor financing), Deferred revenue **+\$363M** (FSD/connectivity prepayments)
 - **Working capital drag**: Prepaid/other assets **−\$3,181M** (restricted cash, supplier advances, MyPower loans), Inventory **−\$630M**, AR **−\$261M**
-- **Non-cash add-backs**: SBC **\$2,825M**, D&A **~\$3.5B**, Digital asset loss **\$68M**
+- **Non-cash add-backs**: D&A & impairment **\$6,148M**, SBC **\$2,825M**, FX transaction loss **\$452M**, inventory write-downs **\$362M**, Digital asset loss **\$68M**
 
 > [!warning] Analytical Note
 > Tesla's CFO is propped up by **accounts payable growth** (+\$4.4B in 2025, +\$3.6B in 2024). If AP growth slows, CFO will drop sharply unless operating margins recover. This is a form of **supplier financing** — watch for sustainability.
@@ -195,15 +204,19 @@ $$\text{CFO} = \text{Net Income} + \text{Non-Cash Expenses} \pm \text{Non-Operat
 | Step | Adjustment | Amount | Logic |
 |---|---|---:|---|
 | 1 | Start: Net Income | +\$3,855 | Accrual bottom line |
-| 2 | Add: SBC | +\$2,825 | Non-cash, dilutive |
-| 3 | Add: D&A (est.) | +~\$3,500 | Non-cash allocation |
-| 4 | Add: Digital asset loss | +\$68 | Fair-value, nonoperating |
-| 5 | Add: Deferred tax increase | +\$123 | Tax expense > cash paid |
-| 6 | Adjust: AR increase | −\$261 | Revenue > collections |
-| 7 | Adjust: Inventory increase | −\$630 | Cash spent > COGS |
-| 8 | Adjust: Prepaid/other increase | −\$3,181 | Cash out for future benefit |
-| 9 | Adjust: AP/accrued increase | +\$4,376 | Bought on credit, cash kept |
-| 10 | Adjust: Deferred revenue increase | +\$363 | Collected cash, not earned |
+| 2 | Add: D&A and impairment | +\$6,148 | Non-cash allocation |
+| 3 | Add: SBC | +\$2,825 | Non-cash, dilutive |
+| 4 | Add: Inventory & purchase-commitment write-downs | +\$362 | Non-cash charge |
+| 5 | Add: Foreign-currency transaction loss, net | +\$452 | Unrealized, non-cash |
+| 6 | Add: Deferred tax increase | +\$123 | Tax expense > cash paid |
+| 7 | Add: Non-cash interest and other operating | +\$272 | Accretion/other, non-cash |
+| 8 | Add: Digital asset loss | +\$68 | Fair-value, nonoperating |
+| 9 | Adjust: AR increase | −\$261 | Revenue > collections |
+| 10 | Adjust: Inventory increase | −\$630 | Cash spent > COGS |
+| 11 | Adjust: Operating lease vehicles | −\$25 | Fleet build (investing-like) |
+| 12 | Adjust: Prepaid/other increase | −\$3,181 | Cash out for future benefit |
+| 13 | Adjust: AP/accrued increase | +\$4,376 | Bought on credit, cash kept |
+| 14 | Adjust: Deferred revenue increase | +\$363 | Collected cash, not earned |
 | | **= CFO** | **\$14,747** | |
 
 > [!example] The "Big Three" Working Capital Levers for Tesla
