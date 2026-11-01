@@ -160,7 +160,7 @@ Extending the denominator lowers the annual charge and raises operating margin b
 **Classic case.** In 1999 roughly **\$799 million** — about **6.7%** of IBM's reported \$11.9 billion operating income — came from pension-plan asset returns. Stripping them, IBM's "core" operating-income CAGR fell from a reported **97%** to about **38%**.
 
 > [!danger] The Expense Red-Flag Test
-> Read the notes, not just the face of the statement. Three questions catch most distortions: **(1)** Are recurring costs being capitalized? (compare CapEx growth against the operating expense it replaced.) **(2)** Have depreciation lives or salvage assumptions changed? **(3)** Is a large gain buried inside an operating expense line, or a pension return inflating operating profit?
+> Read the notes, not just the face of the statement. Four questions catch most distortions: **(1)** Are recurring costs being capitalized? (compare CapEx growth against the operating expense it replaced.) **(2)** Have depreciation lives or salvage assumptions changed? **(3)** Is a large gain buried inside an operating expense line, or a pension return inflating operating profit? **(4)** Is a reserve — warranty, returns, buyback obligations — growing much faster than revenue? Reserves are management estimates embedded in an expense line; when the reserve compounds while the business runs flat, "smoothing" has somewhere to hide (this is the pattern in Tesla's warranty work below, in §IV).
 
 ---
 
