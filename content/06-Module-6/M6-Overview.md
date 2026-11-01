@@ -58,12 +58,15 @@ aliases:
 | 8 | Reporting-limit checks (historical cost · audit opinions · pro forma) | Which reporting boundaries distort the picture? | [[M6-Obj-6-2]] §II |
 | 9 | Distress models (Beaver trend · Altman Z · KMV) | Can the risk be scored before the default? | [[M6-Obj-6-2]] §III |
 
-```mermaid
-flowchart LR
-    M5["Module 5<br/>Quality of<br/>Earnings Tests"] --> M6A["LO 6.1<br/>Financial, Operational,<br/>& Strategic Risks<br/><i>Tesla as clean case</i>"]
-    M6A --> M6B["LO 6.2<br/>Accounting<br/>Distortion &<br/>Distress Models"]
-    M6B --> M7["Module 7<br/>Looking Forward:<br/>Forecast &<br/>Valuation"]
-```
+<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:stretch;gap:0.75rem;width:100%;margin:1rem 0">
+  <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 0.9rem;flex:1 1 150px;max-width:220px;text-align:center"><b>Module 5</b><br/><span style="font-size:0.85em">Quality of<br/>Earnings Tests</span></div>
+  <div style="font-size:1.1rem;color:var(--secondary);align-self:center">&rarr;</div>
+  <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 0.9rem;flex:1 1 150px;max-width:220px;text-align:center"><b>LO 6.1</b><br/><span style="font-size:0.85em">Financial, Operational,<br/>&amp; Strategic Risks<br/><i>Tesla as clean case</i></span></div>
+  <div style="font-size:1.1rem;color:var(--secondary);align-self:center">&rarr;</div>
+  <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 0.9rem;flex:1 1 150px;max-width:220px;text-align:center"><b>LO 6.2</b><br/><span style="font-size:0.85em">Accounting<br/>Distortion &amp;<br/>Distress Models</span></div>
+  <div style="font-size:1.1rem;color:var(--secondary);align-self:center">&rarr;</div>
+  <div style="border:2px solid var(--secondary);border-radius:8px;padding:0.6rem 0.9rem;flex:1 1 150px;max-width:220px;text-align:center"><b>Module 7</b><br/><span style="font-size:0.85em">Looking Forward:<br/>Forecast &amp;<br/>Valuation</span></div>
+</div>
 
 > [!tip] From Skepticism Back to the Whole Firm
 > Modules 2–5 built increasingly powerful tests of *one earnings number at a time*. Module 6 zooms out: the same toolkit — ratios, cash flow, and the discipline to read the notes — now serves **credit and solvency judgment**. And the module ends where skeptical analysis begins: financing a firm whose numbers may flatter it. The distortions M6 catalogs ([[M6-Obj-6-2]]) are the reason Module 7's forecasts must build on the *adjusted*, not the reported, statements.
