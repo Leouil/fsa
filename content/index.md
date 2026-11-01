@@ -1,6 +1,6 @@
 ---
 title: Financial Statement Analysis
-description: Open course notes on financial statement analysis — modules M0 to M5.
+description: Open course notes on financial statement analysis — modules M0 to M6.
 date: 2026-08-29
 ---
 
@@ -16,6 +16,7 @@ A proof-based guide to reading, analyzing, and interpreting corporate financial 
 - [[03-Module-3/M3-Overview]] — core analytical techniques (common-sizing, trends, Du Pont)
 - [[04-Module-4/M4-Overview]] — strategic and industry context, peer benchmarking
 - [[05-Module-5/M5-Overview]] — advanced performance assessment: earnings quality tests
+- [[06-Module-6/M6-Overview]] — risk profile: identifying risks and recognizing accounting distortion
 
 ## Modules
 
@@ -27,6 +28,7 @@ A proof-based guide to reading, analyzing, and interpreting corporate financial 
 | [[03-Module-3/M3-Overview\|M3]] | Core Analytical Techniques |
 | [[04-Module-4/M4-Overview\|M4]] | Strategic and Industry Context |
 | [[05-Module-5/M5-Overview\|M5]] | Advanced Performance Assessment |
+| [[06-Module-6/M6-Overview\|M6]] | Risk Management and Limitations |
 
 ## Skills
 
