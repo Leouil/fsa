@@ -57,7 +57,9 @@ Two reasons this objective still matters:
 
 $$\text{Off-Balance-Sheet Lease Debt} \approx 8 \times \text{Annual Operating Lease Rental Expense}$$
 
-$$\text{Adjusted Total Debt} = \text{Reported Debt} + (8 \times \text{Annual Rental}) \qquad \text{Adjusted Total Capital} = \text{Adjusted Debt} + \text{Equity}$$
+$$\text{Adjusted Total Debt} = \text{Reported Debt} + (8 \times \text{Annual Rental})$$
+
+$$\text{Adjusted Total Capital} = \text{Adjusted Debt} + \text{Equity}$$
 
 2. **Tesla calibration.** Post-842, Tesla's balance sheet carries **ROU assets of \$6,027M (2025) / \$5,160M (2024)** ([[M2-Obj-2-1]]), and its disclosed debt line already includes finance leases (\$8,376M total, \$1,640M current). The modern lesson cuts the other way: a firm whose leases *are* on the books looks more leveraged than a pre-842 peer with the identical economics — analysts comparing across eras or geographies must normalize, or they systematically mis-rank.
 
