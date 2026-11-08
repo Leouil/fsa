@@ -1,5 +1,5 @@
 ---
-title: M7-Obj-7-2 - Stress-Test the Forecast: Sensitivity Analysis and Interdependent Risk
+title: "M7-Obj-7-2 - Stress-Test the Forecast: Sensitivity Analysis and Interdependent Risk"
 created: 2026-11-08
 date: 2026-11-08
 tags:

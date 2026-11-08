@@ -1,5 +1,5 @@
 ---
-title: M7-Obj-7-3 - Value the Firm: Intrinsic (DCF) and Relative (Multiples) Valuation
+title: "M7-Obj-7-3 - Value the Firm: Intrinsic (DCF) and Relative (Multiples) Valuation"
 created: 2026-11-08
 date: 2026-11-08
 tags:
