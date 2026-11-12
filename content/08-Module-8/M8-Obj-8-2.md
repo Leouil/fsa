@@ -64,27 +64,27 @@ The stakeholder map, and where each audience's evidence comes from:
 
 Take Tesla's FY2025 facts — every one of them verifiable in the 10-K:
 
-| Fact (FY2025) | Figure |
-|---|---:|
-| Revenue | 94,827 |
-| EBIT | 4,355 (4.59% margin) |
-| Of which policy-dependent regulatory credits | 1,993 (45.8% of EBIT) |
-| EBIT ex-credits (normalized) | 2,362 (2.49% margin) |
-| CFO | 14,747 |
-| CapEx | 8,527 |
-| Free cash flow (CFO − CapEx) | 6,220 |
-| Cash and short-term investments | 44,059 |
-| Total debt and finance leases | 8,376 |
-| Net cash | **35,683** (\$9.51 per share) |
-| EBIT interest coverage | 12.9× |
-| Debt/CFO payback | 0.57 years |
-| Debt-to-capital | 9.2% |
-| Quick ratio / cash-flow liquidity | 1.53× / 2.00× |
-| Altman Z (M6 work) | 19.93 → Safe zone |
-| EBITDA | 10,503 |
-| EV / EV-to-EBITDA | 1,651,217 / **157.2×** |
-| P/E on reported / core EPS | 416.4× / 661.1× |
-| Market capitalisation | 1,686,900 |
+| Fact (FY2025)                                |                        Figure |
+| -------------------------------------------- | ----------------------------: |
+| Revenue                                      |                        94,827 |
+| EBIT                                         |          4,355 (4.59% margin) |
+| Of which policy-dependent regulatory credits |         1,993 (45.8% of EBIT) |
+| EBIT ex-credits (normalized)                 |          2,362 (2.49% margin) |
+| CFO                                          |                        14,747 |
+| CapEx                                        |                         8,527 |
+| Free cash flow (CFO − CapEx)                 |                         6,220 |
+| Cash and short-term investments              |                        44,059 |
+| Total debt and finance leases                |                         8,376 |
+| Net cash                                     | **35,683** (\$9.51 per share) |
+| EBIT interest coverage                       |                         12.9× |
+| Debt/CFO payback                             |                    0.57 years |
+| Debt-to-capital                              |                          9.2% |
+| Quick ratio / cash-flow liquidity            |                 1.53× / 2.00× |
+| Altman Z (M6 work)                           |             19.93 → Safe zone |
+| EBITDA                                       |                        10,503 |
+| EV / EV-to-EBITDA                            |        1,651,217 / **157.2×** |
+| P/E on reported / core EPS                   |               416.4× / 661.1× |
+| Market capitalisation                        |                     1,686,900 |
 
 Read those facts as four different professionals, and you get four different reports:
 
@@ -174,39 +174,47 @@ Compute **free cash flow** (CFO − CapEx), **normalized operating income** (EBI
 
 ### IV. The Course Capstone Project
 
+> [!tip] The capstone is AI-assisted, and that is the point
+> Module 8's project is **"The AI Analyst"**: students design the prompt chain that makes Microsoft Copilot draft Tesla's full initiation report, then they **audit every number the model produced** and own the four judgments that make the report a report. The brief, the full prompt chain, the grading rubric, and the AI-use disclosure live in [[PROJECT-M8-AI-Analyst-Prompt-Pack]]; the instructor key with the reference numbers lives beside it. What follows is the assignment's logic, not its mechanics.
+
 #### 1. The deliverable
 
 A **professional initiation report on Tesla, Inc.** (FY2025 Form 10-K base) in two forms:
 
-1. **The report** — executive summary plus the seven steps (per [[M8-Obj-8-1]] §II), with every figure traced to the 10-K or to a lecture citation, and a explicit recommendation.
+1. **The report** — executive summary plus the seven steps (per [[M8-Obj-8-1]] §II), with every figure traced to the 10-K or to a lecture citation, and an explicit recommendation.
 2. **The adapted pack** — the same evidence recast as (a) a one-page **credit memo** and (b) a **one-page equity thesis** (per §I and §III of this note), plus a short note of **what you changed and why** when you adapted them.
 
-#### 2. Evidence standards (non-negotiable)
+#### 2. Who does what
 
-- Every number traces to the FY2025 10-K (or the FY2023 10-K where a three-year series is used) or to a named lecture note and section.
+The model drafts; the students decide. The graded objects are the **audit trail** (verification log + AI error log, 45 points), the **four judgments** (20 points), and the **quality of the prompt chain** (10 points) — not the prose the model produced. That is why the project is a learning exercise rather than a typing exercise: a report Copilot writes without supervision fails the audit phase, and the failures are visible in the numbers.
+
+#### 3. Evidence standards (non-negotiable)
+
+- Every number traces to the FY2025 10-K (or the FY2023 10-K where a three-year series is used) or to a named lecture note and section — and to the verified **Tesla Capstone Data Pack**, which is the grounding file students hand to the model.
 - Earnings are **normalized** before any multiple, trend, or return is quoted ([[M5-Obj-5-3]]).
-- Forecasts disclose the assumption set and the single most sensitive assumption ([[M7-Obj-7-1]], [[M7-Obj-7-2]]).
+- Forecasts disclose the assumption set and the single most sensitive assumption ([[M7-Obj-7-1]], [[M7-Obj-7-2]]) — and confront management's own capital-expenditure expectation, which the model will never volunteer unprompted.
 - Valuation is quoted as a **range with its assumption set**, never a single number ([[M7-Obj-7-3]]).
-- Where the report states a recommendation, it states the **conditions that would invalidate it**.
+- Where the report states a recommendation, it states the **conditions that would invalidate it**, and it presents **no price target**.
 
-#### 3. Grading rubric
+#### 4. Grading at a glance
 
-| Dimension | Weight | What earns full marks |
+| Criterion | Points | Full marks in one line |
 |---|---:|---|
-| **Analytical rigor** | 30% | Every claim carries a number and a source; normalizations, ratios and forecast mechanics are correct and explained |
-| **Causal structure** | 20% | The seven steps run in argument order; each discharges its proof obligation; the thesis is causal, not descriptive |
-| **Decision quality** | 20% | The recommendation is explicit, evidence-linked, falsifiable, and appropriate to the audience |
-| **Audience fit** | 15% | The adapted pack changes lead metric, risk emphasis and decision type — while the underlying evidence is identical across documents |
-| **Communication** | 10% | Executive summary stands alone; numbers appear once; no orphan claims; the document reads as an argument |
-| **Discipline** | 5% | No answer leakage from the lecture notes; assumption sets disclosed; limitations stated |
+| Verification quality | 30 | Every figure logged with a source, a method, and a result; nothing unresolved |
+| AI error diagnosis | 15 | Errors named, classified, explained, corrected — including consequential ones |
+| Analytical judgment | 20 | Causal thesis; the four judgments are the student's, with reasons |
+| Report structure & communication | 15 | Seven steps in argument order; executive summary stands alone |
+| Audience fit | 10 | Framing and decision type change; evidence stays invariant |
+| Prompt engineering | 10 | Grounded, chained, self-checking prompts; versioned log |
+| Ethics & disclosure | 5 | Honest AI-use statement; limitations acknowledged |
 
-#### 4. Suggested schedule and submission checklist
+#### 5. Suggested schedule
 
-- **Week 1:** thesis sentence, five supporting claims, and the seven-step outline with evidence assigned to each step.
-- **Week 2:** Steps 1–4 drafted (industry, strategy, quality, diagnosis).
-- **Week 3:** Steps 5–6 (forecast, valuation) plus the executive summary.
-- **Week 4:** Step 7, the adapted pack, and the pre-submission checklist from [[M8-Obj-8-1]] §IV.
-- **Submit:** report; adapted pack; a change-log note; the source table (every figure → filing line or lecture section).
+- **Week 1:** the brief, the thesis memo with its five claims, and the audit log opened.
+- **Week 2:** Steps 1–4 drafted (industry, strategy, quality, diagnosis) with the first verification pass.
+- **Week 3:** Steps 5–7 (forecast, valuation, recommendation) plus the executive summary.
+- **Week 4:** the audit phase, the red-team phase, repairs, the adapted pack, and the pre-submission checklist from [[M8-Obj-8-1]] §IV.
+- **Submit:** report; adapted pack; change log; verification log; AI error log; prompt pack; AI-use disclosure.
 
 ---
 
@@ -280,6 +288,7 @@ Using the FY2025 Tesla data pack in §I:
 
 - [[M8-Overview]] — Module 8 overview
 - [[M8-Obj-8-1]] — the seven-step architecture, the Sage initiation exercise, and the pre-submission checklist
+- [[PROJECT-M8-AI-Analyst-Prompt-Pack]] — the capstone brief: the full Copilot prompt chain, the graded artifacts, and the AI-use disclosure
 - [[M7-Obj-7-3]] — the valuation evidence behind the equity thesis, including the reverse DCF
 - [[M7-Obj-7-1]] — the forecast evidence behind the credit memo (EFN, working capital) and the stress cases
 - [[M6-Obj-6-1]] — the risk diagnostics behind both documents (coverage, payback, operating leverage)
