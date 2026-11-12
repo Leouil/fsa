@@ -23,7 +23,7 @@ This course is designed to teach you financial statement analysis the way it is 
 5. [[M5-Overview]] — Advanced Performance Assessment
 6. [[M6-Overview]] — Risk Management and Limitations
 7. [[M7-Overview]] — Forecasting and Business Valuation
-8. M8-Overview — Professional Financial Analysis Reporting
+8. [[M8-Overview]] — Professional Financial Analysis Reporting
 
 ## The Learning Flow
 
