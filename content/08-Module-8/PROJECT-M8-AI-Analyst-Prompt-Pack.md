@@ -1,5 +1,5 @@
 ---
-title: PROJECT — Module 8 "The AI Analyst": Tesla Initiation Report with Microsoft Copilot
+title: "PROJECT — Module 8 \"The AI Analyst\": Tesla Initiation Report with Microsoft Copilot"
 created: 2026-11-12
 date: 2026-11-12
 tags:
