@@ -175,7 +175,7 @@ Compute **free cash flow** (CFO − CapEx), **normalized operating income** (EBI
 ### IV. The Course Capstone Project
 
 > [!tip] The capstone is AI-assisted, and that is the point
-> Module 8's project is **"The AI Analyst"**: students design the prompt chain that makes Microsoft Copilot draft Tesla's full initiation report, then they **audit every number the model produced** and own the four judgments that make the report a report. The brief, the full prompt chain, the grading rubric, and the AI-use disclosure live in [[PROJECT-M8-AI-Analyst-Prompt-Pack]]; the instructor key with the reference numbers lives beside it. What follows is the assignment's logic, not its mechanics.
+> Module 8's project is **"The AI Analyst"**: students design the prompt chain that makes Microsoft Copilot draft Tesla's full initiation report, then they **audit every number the model produced** and own the four judgments that make the report a report. The full brief — the prompt chain, the grading rubric, and the AI-use disclosure — is distributed with the course materials rather than published here; the instructor key with the reference numbers lives beside it. What follows is the assignment's logic, not its mechanics.
 
 #### 1. The deliverable
 
@@ -288,7 +288,7 @@ Using the FY2025 Tesla data pack in §I:
 
 - [[M8-Overview]] — Module 8 overview
 - [[M8-Obj-8-1]] — the seven-step architecture, the Sage initiation exercise, and the pre-submission checklist
-- [[PROJECT-M8-AI-Analyst-Prompt-Pack]] — the capstone brief: the full Copilot prompt chain, the graded artifacts, and the AI-use disclosure
+- The capstone brief ("The AI Analyst" prompt pack) — distributed with the course materials; the full Copilot prompt chain, the graded artifacts, and the AI-use disclosure
 - [[M7-Obj-7-3]] — the valuation evidence behind the equity thesis, including the reverse DCF
 - [[M7-Obj-7-1]] — the forecast evidence behind the credit memo (EFN, working capital) and the stress cases
 - [[M6-Obj-6-1]] — the risk diagnostics behind both documents (coverage, payback, operating leverage)

@@ -46,7 +46,7 @@ aliases:
 > - **The same Tesla facts support four defensible documents.** Net cash of **\$35,683M**, 12.9× coverage, and 0.57-year payback make the credit trivial; **416.4×** reported and **661.1×** core earnings make the equity a bet on a future; **\$8,527M** of capex against **\$6,220M** of free cash flow and a **535M-share** issuance make it a capital-allocation question; and a peer 8.0× multiple implies an enterprise value **19.7× below** what the market pays.
 > - **Tailoring is not spin.** The evidence must stay invariant across audiences; only the question, the framing, and the requested decision change. If the numbers change when the audience changes, the analyst is writing two stories.
 > - **A lender's recommendation and an equity analyst's rating can both be right.** The facility is repaid from cash; the equity payoff is entirely the residual under a 661× multiple. The documents conflict only if one imports the other's conclusion.
-> - **The capstone is AI-assisted, and the trail is the graded object.** Students design the Copilot prompt chain that drafts the full report, then audit every number it produced; the verification log and AI error log carry 45 of the 100 points, because a report Copilot writes unsupervised fails the audit ([[PROJECT-M8-AI-Analyst-Prompt-Pack]]).
+> - **The capstone is AI-assisted, and the trail is the graded object.** Students design the Copilot prompt chain that drafts the full report, then audit every number it produced; the verification log and AI error log carry 45 of the 100 points, because a report Copilot writes unsupervised fails the audit (the full project brief is distributed with the course materials).
 
 ## The Module 8 Analytical Framework
 
@@ -98,6 +98,5 @@ aliases:
 - [[M5-Obj-5-3]] — the core-earnings stack; normalization before any multiple
 - [[M4-Obj-4-1]] — industry and strategy material for Steps 1–2 of the capstone report
 - [[M3-Obj-3-3]] — the Du Pont decomposition of the ROE discussed in LO 8.1
-- [[PROJECT-M8-AI-Analyst-Prompt-Pack]] — the final course project: the Copilot prompt chain, the graded audit trail, and the AI-use disclosure
 - [[Course-Overview]] — full program map
 - Previous: [[M7-Overview]] — the course's analytical spine, now assembled into a deliverable
